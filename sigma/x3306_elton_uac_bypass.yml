@@ -1,0 +1,26 @@
+title: X3306 Elton Chain Ms-Settings UAC Bypass Pattern
+id: 2c513b7a-b387-4de7-b41e-3306e1700002
+status: experimental
+description: Detects ms-settings DelegateExecute registry manipulation followed by ComputerDefaults.exe, as observed in Elton payload strings.
+author: X-3306
+date: 2026/05/11
+references:
+  - X-3306.MaaS.pdf
+tags:
+  - attack.privilege_escalation
+  - attack.t1548.002
+logsource:
+  product: windows
+  category: process_creation
+detection:
+  selection_reg:
+    Image|endswith: '\reg.exe'
+    CommandLine|contains|all:
+      - 'ms-settings\Shell\Open\command'
+      - 'DelegateExecute'
+  selection_computerdefaults:
+    Image|endswith: '\ComputerDefaults.exe'
+  condition: selection_reg or selection_computerdefaults
+falsepositives:
+  - Legitimate troubleshooting of ms-settings protocol handlers is uncommon but possible.
+level: high

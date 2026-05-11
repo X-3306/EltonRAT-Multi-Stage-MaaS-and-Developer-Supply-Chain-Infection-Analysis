@@ -1,0 +1,39 @@
+type,value,confidence,description
+domain,exo-api.tf,high,Stage delivery and final payload routing
+domain,vcc-library.uk,high,Alternative stage delivery infrastructure
+domain,dhszo.darkside.cy,high,Darkside-branded panel host
+domain,api.darkside.cy,high,API backend or C2 panel infrastructure
+domain,balista.lol,high,C2 intake infrastructure
+domain,pee-files.nl,medium-high,Redirect and staging infrastructure
+domain,rshosting.xyz,medium,Fallback or abandoned domain observed in network notes
+domain,test.recklessroleplay.com,medium-high,Early redirect clue to dhszo.darkside.cy
+domain,raw.githubusercontent.com,medium,Dead-drop hosting provider used with rustflare path
+domain,bot.whatismyipaddress.com,medium,Geolocation or external IP lookup
+domain,i-slept-with-ur.mom,low,Possible test/debug or anti-analysis bait string
+url,https://exo-api.tf/Stb/Retev.php?bl=oy7DDikwUmXxyY968EPRE008.txt,high,Stager retrieval URL
+url,https://vcc-library.uk/Stb/Retev.php?bl=oy7DDikwUmXxyY968EPRE008.txt,high,Alternative stager retrieval URL
+url,https://exo-api.tf/PokerFace/init.php?id=Elton,high,Final payload retrieval path
+url,https://balista.lol/bobby31.php?type=APLADEX&security=Daytone,high,C2 ZIP intake endpoint variant
+url,https://balista.lol/bobby31.php?type=APLATG&security=Daytone,high,C2 ZIP intake endpoint variant
+url,https://balista.lol/bobby31.php?type=pssprc&security=Daytone,high,C2 ZIP intake endpoint variant
+url,https://raw.githubusercontent.com/XxXloverXx/rustflare/refs/heads/main/engine,medium-high,GitHub dead-drop path
+url,https://raw.githubusercontent.com/XxXloverXxX/rustflare/refs/heads/main/crates/engine,medium,Related GitHub dead-drop path
+sha256,b58f0e8bed9fdde02c0abdafaa0eda5afa8a72c15aa6ac41d487ee2516d511bc,high,Initial loader sample
+sha256,2786cdf16d76e585a12cebb3b888a4e323915f2483cfa9a74bc20726272c1bc4,high,Elton final payload
+sha1,dba9fe66abcbce60dda25384afe06984e1c0db9c,high,Initial loader sample
+sha1,7297369403f860a6e3bca8e9397da54eb9159d6e,high,Elton final payload
+md5,8e36104cb51ada0cb59ba7d4e1d7521f,high,Initial loader sample
+md5,823a85d7d8d697f96f33c71a40cbabe0,high,Elton final payload
+filename,void.exe,medium-high,Initial loader name
+filename,BK470009.exe,high,Stager output filename
+filename,BK529815.exe,high,Alternative stager output filename
+path,%APPDATA%\BK470009.exe,high,Observed stager output path
+path,%TEMP%\BK529815.exe,high,Alternative source-code infection output path
+path,/Stb/PokerFace/init.php?,high,payload retrieval path
+path,C:\ProgramData\bungee.boo,medium-high,Persistence artifact
+path,C:\ProgramData\wkkr.bug,medium-high,Persistence artifact
+mutex,Global\PFNX_SideQE,high,Payload mutex
+user_agent,Mozilla/5.0 (Windows NT 14_73_31; WOW64),high,Unique fake user-agent
+campaign_id,oy7DDikwUmXxyY968EPRE008,high,Stage campaign or affiliate identifier
+campaign_id,Elton,medium-high,Final payload identifier
+discord_id,1399862658039156736,medium-high,Webhook snowflake ID with timestamp value

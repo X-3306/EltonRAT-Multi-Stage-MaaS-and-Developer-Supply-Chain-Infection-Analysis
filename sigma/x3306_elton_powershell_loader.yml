@@ -1,0 +1,40 @@
+title: X3306 Elton Chain Hidden PowerShell Loader
+id: 2c513b7a-b387-4de7-b41e-3306e1700001
+status: experimental
+description: Detects hidden PowerShell fetch-and-run behavior associated with the void.exe, BK470009.exe, and source-code infection chain.
+author: X-3306
+date: 2026/05/11
+references:
+  - X-3306.MaaS.pdf
+tags:
+  - attack.execution
+  - attack.t1059.001
+  - attack.defense_evasion
+logsource:
+  product: windows
+  category: process_creation
+detection:
+  selection_powershell:
+    Image|endswith:
+      - '\powershell.exe'
+      - '\pwsh.exe'
+  selection_hidden:
+    CommandLine|contains:
+      - '-WindowStyle Hidden'
+      - '-w hidden'
+  selection_download:
+    CommandLine|contains:
+      - 'iwr -Uri'
+      - 'Invoke-WebRequest'
+      - 'Start-Process -FilePath'
+  selection_elton_iocs:
+    CommandLine|contains:
+      - 'exo-api.tf'
+      - 'vcc-library.uk'
+      - 'BK470009.exe'
+      - 'BK529815.exe'
+      - 'oy7DDikwUmXxyY968EPRE008'
+  condition: selection_powershell and selection_hidden and selection_download and selection_elton_iocs
+falsepositives:
+  - Rare legitimate hidden PowerShell download-and-execute administration scripts.
+level: high

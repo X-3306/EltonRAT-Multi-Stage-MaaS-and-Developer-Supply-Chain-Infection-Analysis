@@ -1,0 +1,1089 @@
+  ExifToolVersion = 13.25
+  FileName = Untitled.png
+  Directory = .
+  FileSize = 2310761
+  FileModifyDate = 1777924186
+  FileAccessDate = 1777927199
+  FileInodeChangeDate = 1777927176
+  FilePermissions = 33200
+  FileType = PNG
+  FileTypeExtension = PNG
+  MIMEType = image/png
+PNG IHDR (13 bytes):
+      0010: 00 00 04 00 00 00 06 00 08 06 00 00 00          [.............]
+  + [BinaryData directory, 13 bytes]
+  | ImageWidth = 1024
+  | - Tag 0x0000 (4 bytes, int32u[1]):
+  |     0000: 00 00 04 00                                     [....]
+  | ImageHeight = 1536
+  | - Tag 0x0004 (4 bytes, int32u[1]):
+  |     0004: 00 00 06 00                                     [....]
+  | BitDepth = 8
+  | - Tag 0x0008 (1 bytes, int8u[1]):
+  |     0008: 08                                              [.]
+  | ColorType = 6
+  | - Tag 0x0009 (1 bytes, int8u[1]):
+  |     0009: 06                                              [.]
+  | Compression = 0
+  | - Tag 0x000a (1 bytes, int8u[1]):
+  |     000a: 00                                              [.]
+  | Filter = 0
+  | - Tag 0x000b (1 bytes, int8u[1]):
+  |     000b: 00                                              [.]
+  | Interlace = 0
+  | - Tag 0x000c (1 bytes, int8u[1]):
+  |     000c: 00                                              [.]
+PNG caBX (49594 bytes):
+      0029: 00 00 c1 ba 6a 75 6d 62 00 00 00 1e 6a 75 6d 64 [....jumb....jumd]
+      0039: 63 32 70 61 00 11 00 10 80 00 00 aa 00 38 9b 71 [c2pa.........8.q]
+      0049: 03 63 32 70 61 00 00 00 36 fa 6a 75 6d 62 00 00 [.c2pa...6.jumb..]
+      0059: 00 47 6a 75 6d 64 63 32 6d 61 00 11 00 10 80 00 [.Gjumdc2ma......]
+      0069: 00 aa 00 38 9b 71 03 75 72 6e 3a 63 32 70 61 3a [...8.q.urn:c2pa:]
+      [snip 49514 bytes]
+  + [JUMBF directory]
+  | JUMBFBox (SubDirectory) -->
+  | - Tag 'jumb' (49586 bytes):
+  |     0008: 00 00 00 1e 6a 75 6d 64 63 32 70 61 00 11 00 10 [....jumdc2pa....]
+  |     0018: 80 00 00 aa 00 38 9b 71 03 63 32 70 61 00 00 00 [.....8.q.c2pa...]
+  |     0028: 36 fa 6a 75 6d 62 00 00 00 47 6a 75 6d 64 63 32 [6.jumb...Gjumdc2]
+  |     0038: 6d 61 00 11 00 10 80 00 00 aa 00 38 9b 71 03 75 [ma.........8.q.u]
+  |     0048: 72 6e 3a 63 32 70 61 3a 39 34 38 35 32 34 37 36 [rn:c2pa:94852476]
+  |     [snip 49506 bytes]
+  | + [JUMBFBox directory]
+  | | JUMBFDescr (SubDirectory) -->
+  | | - Tag 'jumd' (22 bytes):
+  | |     0010: 63 32 70 61 00 11 00 10 80 00 00 aa 00 38 9b 71 [c2pa.........8.q]
+  | |     0020: 03 63 32 70 61 00                               [.c2pa.]
+  | | + [JUMD directory, 22 bytes]
+  | | | JUMDType = c2pa....8.q
+  | | | JUMDToggles = 3
+  | | | JUMDLabel = c2pa
+  | | JUMBFBox (SubDirectory) -->
+  | | - Tag 'jumb' (14066 bytes):
+  | |     002e: 00 00 00 47 6a 75 6d 64 63 32 6d 61 00 11 00 10 [...Gjumdc2ma....]
+  | |     003e: 80 00 00 aa 00 38 9b 71 03 75 72 6e 3a 63 32 70 [.....8.q.urn:c2p]
+  | |     004e: 61 3a 39 34 38 35 32 34 37 36 2d 35 34 38 31 2d [a:94852476-5481-]
+  | |     005e: 34 30 65 61 2d 61 65 39 32 2d 62 30 66 36 32 63 [40ea-ae92-b0f62c]
+  | |     006e: 61 65 35 61 63 32 00 00 00 01 c1 6a 75 6d 62 00 [ae5ac2.....jumb.]
+  | |     [snip 13986 bytes]
+  | | + [JUMBFBox directory]
+  | | | JUMBFDescr (SubDirectory) -->
+  | | | - Tag 'jumd' (63 bytes):
+  | | |     0036: 63 32 6d 61 00 11 00 10 80 00 00 aa 00 38 9b 71 [c2ma.........8.q]
+  | | |     0046: 03 75 72 6e 3a 63 32 70 61 3a 39 34 38 35 32 34 [.urn:c2pa:948524]
+  | | |     0056: 37 36 2d 35 34 38 31 2d 34 30 65 61 2d 61 65 39 [76-5481-40ea-ae9]
+  | | |     0066: 32 2d 62 30 66 36 32 63 61 65 35 61 63 32 00    [2-b0f62cae5ac2.]
+  | | | + [JUMD directory, 63 bytes]
+  | | | | JUMDType = c2ma....8.q
+  | | | | JUMDToggles = 3
+  | | | | JUMDLabel = urn:c2pa:94852476-5481-40ea-ae92-b0f62cae5ac2
+  | | | JUMBFBox (SubDirectory) -->
+  | | | - Tag 'jumb' (441 bytes):
+  | | |     007d: 00 00 00 29 6a 75 6d 64 63 32 61 73 00 11 00 10 [...)jumdc2as....]
+  | | |     008d: 80 00 00 aa 00 38 9b 71 03 63 32 70 61 2e 61 73 [.....8.q.c2pa.as]
+  | | |     009d: 73 65 72 74 69 6f 6e 73 00 00 00 00 e5 6a 75 6d [sertions.....jum]
+  | | |     00ad: 62 00 00 00 29 6a 75 6d 64 63 62 6f 72 00 11 00 [b...)jumdcbor...]
+  | | |     00bd: 10 80 00 00 aa 00 38 9b 71 03 63 32 70 61 2e 61 [......8.q.c2pa.a]
+  | | |     [snip 361 bytes]
+  | | | + [JUMBFBox directory]
+  | | | | JUMBFDescr (SubDirectory) -->
+  | | | | - Tag 'jumd' (33 bytes):
+  | | | |     0085: 63 32 61 73 00 11 00 10 80 00 00 aa 00 38 9b 71 [c2as.........8.q]
+  | | | |     0095: 03 63 32 70 61 2e 61 73 73 65 72 74 69 6f 6e 73 [.c2pa.assertions]
+  | | | |     00a5: 00                                              [.]
+  | | | | + [JUMD directory, 33 bytes]
+  | | | | | JUMDType = c2as....8.q
+  | | | | | JUMDToggles = 3
+  | | | | | JUMDLabel = c2pa.assertions
+  | | | | JUMBFBox (SubDirectory) -->
+  | | | | - Tag 'jumb' (221 bytes):
+  | | | |     00ae: 00 00 00 29 6a 75 6d 64 63 62 6f 72 00 11 00 10 [...)jumdcbor....]
+  | | | |     00be: 80 00 00 aa 00 38 9b 71 03 63 32 70 61 2e 61 63 [.....8.q.c2pa.ac]
+  | | | |     00ce: 74 69 6f 6e 73 2e 76 32 00 00 00 00 b4 63 62 6f [tions.v2.....cbo]
+  | | | |     00de: 72 a1 67 61 63 74 69 6f 6e 73 82 a3 66 61 63 74 [r.gactions..fact]
+  | | | |     00ee: 69 6f 6e 6c 63 32 70 61 2e 63 72 65 61 74 65 64 [ionlc2pa.created]
+  | | | |     [snip 141 bytes]
+  | | | | + [JUMBFBox directory]
+  | | | | | JUMBFDescr (SubDirectory) -->
+  | | | | | - Tag 'jumd' (33 bytes):
+  | | | | |     00b6: 63 62 6f 72 00 11 00 10 80 00 00 aa 00 38 9b 71 [cbor.........8.q]
+  | | | | |     00c6: 03 63 32 70 61 2e 61 63 74 69 6f 6e 73 2e 76 32 [.c2pa.actions.v2]
+  | | | | |     00d6: 00                                              [.]
+  | | | | | + [JUMD directory, 33 bytes]
+  | | | | | | JUMDType = cbor....8.q
+  | | | | | | JUMDToggles = 3
+  | | | | | | JUMDLabel = c2pa.actions.v2
+  | | | | | CBORData (SubDirectory) -->
+  | | | | | - Tag 'cbor' (172 bytes):
+  | | | | |     00df: a1 67 61 63 74 69 6f 6e 73 82 a3 66 61 63 74 69 [.gactions..facti]
+  | | | | |     00ef: 6f 6e 6c 63 32 70 61 2e 63 72 65 61 74 65 64 6d [onlc2pa.createdm]
+  | | | | |     00ff: 73 6f 66 74 77 61 72 65 41 67 65 6e 74 bf 64 6e [softwareAgent.dn]
+  | | | | |     010f: 61 6d 65 66 47 50 54 2d 34 6f ff 71 64 69 67 69 [amefGPT-4o.qdigi]
+  | | | | |     011f: 74 61 6c 53 6f 75 72 63 65 54 79 70 65 78 46 68 [talSourceTypexFh]
+  | | | | |     [snip 92 bytes]
+  | | | | | + [CBOR directory, 172 bytes]
+  | | | | | |  hash: <1 pairs>
+  | | | | | |       00df: a1                                              [.]
+  | | | | | |    0) text: 'actions'
+  | | | | | |         00e0: 67 61 63 74 69 6f 6e 73                         [gactions]
+  | | | | | |       list: <2 elements>
+  | | | | | |         00e8: 82                                              [.]
+  | | | | | |      0) hash: <3 pairs>
+  | | | | | |           00e9: a3                                              [.]
+  | | | | | |        0) text: 'action'
+  | | | | | |             00ea: 66 61 63 74 69 6f 6e                            [faction]
+  | | | | | |           text: 'c2pa.created'
+  | | | | | |             00f1: 6c 63 32 70 61 2e 63 72 65 61 74 65 64          [lc2pa.created]
+  | | | | | |        1) text: 'softwareAgent'
+  | | | | | |             00fe: 6d 73 6f 66 74 77 61 72 65 41 67 65 6e 74       [msoftwareAgent]
+  | | | | | |        (indefinite count):
+  | | | | | |           hash: <-1 pairs>
+  | | | | | |             010c: bf                                              [.]
+  | | | | | |          0) text: 'name'
+  | | | | | |               010d: 64 6e 61 6d 65                                  [dname]
+  | | | | | |             text: 'GPT-4o'
+  | | | | | |               0112: 66 47 50 54 2d 34 6f                            [fGPT-4o]
+  | | | | | |          (indefinite count):
+  | | | | | |          1) typ7: <break>
+  | | | | | |               0119: ff                                              [.]
+  | | | | | |        2) text: 'digitalSourceType'
+  | | | | | |             011a: 71 64 69 67 69 74 61 6c 53 6f 75 72 63 65 54 79 [qdigitalSourceTy]
+  | | | | | |             012a: 70 65                                           [pe]
+  | | | | | |           text: 'http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia'
+  | | | | | |             012c: 78 46 68 74 74 70 3a 2f 2f 63 76 2e 69 70 74 63 [xFhttp://cv.iptc]
+  | | | | | |             013c: 2e 6f 72 67 2f 6e 65 77 73 63 6f 64 65 73 2f 64 [.org/newscodes/d]
+  | | | | | |             014c: 69 67 69 74 61 6c 73 6f 75 72 63 65 74 79 70 65 [igitalsourcetype]
+  | | | | | |             015c: 2f 74 72 61 69 6e 65 64 41 6c 67 6f 72 69 74 68 [/trainedAlgorith]
+  | | | | | |             016c: 6d 69 63 4d 65 64 69 61                         [micMedia]
+  | | | | | |      1) hash: <1 pairs>
+  | | | | | |           0174: a1                                              [.]
+  | | | | | |        0) text: 'action'
+  | | | | | |             0175: 66 61 63 74 69 6f 6e                            [faction]
+  | | | | | |           text: 'c2pa.converted'
+  | | | | | |             017c: 6e 63 32 70 61 2e 63 6f 6e 76 65 72 74 65 64    [nc2pa.converted]
+  | | | | | | ActionsAction = c2pa.created
+  | | | | | | ActionsSoftwareAgentName = GPT-4o
+  | | | | | | ActionsDigitalSourceType = http://cv.iptc.org/newscodes/digitalsourcetype[snip]
+  | | | | | | ActionsAction = c2pa.converted
+  | | | | JUMBFBox (SubDirectory) -->
+  | | | | - Tag 'jumb' (163 bytes):
+  | | | |     0193: 00 00 00 28 6a 75 6d 64 63 62 6f 72 00 11 00 10 [...(jumdcbor....]
+  | | | |     01a3: 80 00 00 aa 00 38 9b 71 03 63 32 70 61 2e 68 61 [.....8.q.c2pa.ha]
+  | | | |     01b3: 73 68 2e 64 61 74 61 00 00 00 00 7b 63 62 6f 72 [sh.data....{cbor]
+  | | | |     01c3: a5 6a 65 78 63 6c 75 73 69 6f 6e 73 81 a2 65 73 [.jexclusions..es]
+  | | | |     01d3: 74 61 72 74 18 21 66 6c 65 6e 67 74 68 19 37 2c [tart.!flength.7,]
+  | | | |     [snip 83 bytes]
+  | | | | + [JUMBFBox directory]
+  | | | | | JUMBFDescr (SubDirectory) -->
+  | | | | | - Tag 'jumd' (32 bytes):
+  | | | | |     019b: 63 62 6f 72 00 11 00 10 80 00 00 aa 00 38 9b 71 [cbor.........8.q]
+  | | | | |     01ab: 03 63 32 70 61 2e 68 61 73 68 2e 64 61 74 61 00 [.c2pa.hash.data.]
+  | | | | | + [JUMD directory, 32 bytes]
+  | | | | | | JUMDType = cbor....8.q
+  | | | | | | JUMDToggles = 3
+  | | | | | | JUMDLabel = c2pa.hash.data
+  | | | | | CBORData (SubDirectory) -->
+  | | | | | - Tag 'cbor' (115 bytes):
+  | | | | |     01c3: a5 6a 65 78 63 6c 75 73 69 6f 6e 73 81 a2 65 73 [.jexclusions..es]
+  | | | | |     01d3: 74 61 72 74 18 21 66 6c 65 6e 67 74 68 19 37 2c [tart.!flength.7,]
+  | | | | |     01e3: 64 6e 61 6d 65 6e 6a 75 6d 62 66 20 6d 61 6e 69 [dnamenjumbf mani]
+  | | | | |     01f3: 66 65 73 74 63 61 6c 67 66 73 68 61 32 35 36 64 [festcalgfsha256d]
+  | | | | |     0203: 68 61 73 68 58 20 40 fb 59 ef 69 64 4e c8 09 f4 [hashX @.Y.idN...]
+  | | | | |     [snip 35 bytes]
+  | | | | | + [CBOR directory, 115 bytes]
+  | | | | | |  hash: <5 pairs>
+  | | | | | |       01c3: a5                                              [.]
+  | | | | | |    0) text: 'exclusions'
+  | | | | | |         01c4: 6a 65 78 63 6c 75 73 69 6f 6e 73                [jexclusions]
+  | | | | | |       list: <1 elements>
+  | | | | | |         01cf: 81                                              [.]
+  | | | | | |      0) hash: <2 pairs>
+  | | | | | |           01d0: a2                                              [.]
+  | | | | | |        0) text: 'start'
+  | | | | | |             01d1: 65 73 74 61 72 74                               [estart]
+  | | | | | |           int+: 33
+  | | | | | |             01d7: 18 21                                           [.!]
+  | | | | | |        1) text: 'length'
+  | | | | | |             01d9: 66 6c 65 6e 67 74 68                            [flength]
+  | | | | | |           int+: 14124
+  | | | | | |             01e0: 19 37 2c                                        [.7,]
+  | | | | | |    1) text: 'name'
+  | | | | | |         01e3: 64 6e 61 6d 65                                  [dname]
+  | | | | | |       text: 'jumbf manifest'
+  | | | | | |         01e8: 6e 6a 75 6d 62 66 20 6d 61 6e 69 66 65 73 74    [njumbf manifest]
+  | | | | | |    2) text: 'alg'
+  | | | | | |         01f7: 63 61 6c 67                                     [calg]
+  | | | | | |       text: 'sha256'
+  | | | | | |         01fb: 66 73 68 61 32 35 36                            [fsha256]
+  | | | | | |    3) text: 'hash'
+  | | | | | |         0202: 64 68 61 73 68                                  [dhash]
+  | | | | | |       byte: <binary data 32 bytes>
+  | | | | | |         0207: 58 20 40 fb 59 ef 69 64 4e c8 09 f4 d5 88 72 5d [X @.Y.idN.....r]]
+  | | | | | |         0217: d8 41 d5 6f 41 fc aa f6 52 34 1a 8c d4 06 cd d7 [.A.oA...R4......]
+  | | | | | |         0227: 5b 04                                           [[.]
+  | | | | | |    4) text: 'pad'
+  | | | | | |         0229: 63 70 61 64                                     [cpad]
+  | | | | | |       byte: <binary data 8 bytes>
+  | | | | | |         022d: 48 00 00 00 00 00 00 00 00                      [H........]
+  | | | | | | ExclusionsStart = 33
+  | | | | | | ExclusionsLength = 14124
+  | | | | | | Name = jumbf manifest
+  | | | | | | Alg = sha256
+  | | | | | | Hash = (Binary data 32 bytes)
+  | | | | | | Pad = (Binary data 8 bytes)
+  | | | JUMBFBox (SubDirectory) -->
+  | | | - Tag 'jumb' (485 bytes):
+  | | |     023e: 00 00 00 27 6a 75 6d 64 63 32 63 6c 00 11 00 10 [...'jumdc2cl....]
+  | | |     024e: 80 00 00 aa 00 38 9b 71 03 63 32 70 61 2e 63 6c [.....8.q.c2pa.cl]
+  | | |     025e: 61 69 6d 2e 76 32 00 00 00 01 be 63 62 6f 72 a6 [aim.v2.....cbor.]
+  | | |     026e: 6a 69 6e 73 74 61 6e 63 65 49 44 78 2c 78 6d 70 [jinstanceIDx,xmp]
+  | | |     027e: 3a 69 69 64 3a 31 36 32 37 64 30 37 62 2d 63 61 [:iid:1627d07b-ca]
+  | | |     [snip 405 bytes]
+  | | | + [JUMBFBox directory]
+  | | | | JUMBFDescr (SubDirectory) -->
+  | | | | - Tag 'jumd' (31 bytes):
+  | | | |     0246: 63 32 63 6c 00 11 00 10 80 00 00 aa 00 38 9b 71 [c2cl.........8.q]
+  | | | |     0256: 03 63 32 70 61 2e 63 6c 61 69 6d 2e 76 32 00    [.c2pa.claim.v2.]
+  | | | | + [JUMD directory, 31 bytes]
+  | | | | | JUMDType = c2cl....8.q
+  | | | | | JUMDToggles = 3
+  | | | | | JUMDLabel = c2pa.claim.v2
+  | | | | CBORData (SubDirectory) -->
+  | | | | - Tag 'cbor' (438 bytes):
+  | | | |     026d: a6 6a 69 6e 73 74 61 6e 63 65 49 44 78 2c 78 6d [.jinstanceIDx,xm]
+  | | | |     027d: 70 3a 69 69 64 3a 31 36 32 37 64 30 37 62 2d 63 [p:iid:1627d07b-c]
+  | | | |     028d: 61 35 37 2d 34 32 64 39 2d 62 39 30 39 2d 66 39 [a57-42d9-b909-f9]
+  | | | |     029d: 38 31 61 32 32 33 64 64 36 62 74 63 6c 61 69 6d [81a223dd6btclaim]
+  | | | |     02ad: 5f 67 65 6e 65 72 61 74 6f 72 5f 69 6e 66 6f bf [_generator_info.]
+  | | | |     [snip 358 bytes]
+  | | | | + [CBOR directory, 438 bytes]
+  | | | | |  hash: <6 pairs>
+  | | | | |       026d: a6                                              [.]
+  | | | | |    0) text: 'instanceID'
+  | | | | |         026e: 6a 69 6e 73 74 61 6e 63 65 49 44                [jinstanceID]
+  | | | | |       text: 'xmp:iid:1627d07b-ca57-42d9-b909-f981a223dd6b'
+  | | | | |         0279: 78 2c 78 6d 70 3a 69 69 64 3a 31 36 32 37 64 30 [x,xmp:iid:1627d0]
+  | | | | |         0289: 37 62 2d 63 61 35 37 2d 34 32 64 39 2d 62 39 30 [7b-ca57-42d9-b90]
+  | | | | |         0299: 39 2d 66 39 38 31 61 32 32 33 64 64 36 62       [9-f981a223dd6b]
+  | | | | |    1) text: 'claim_generator_info'
+  | | | | |         02a7: 74 63 6c 61 69 6d 5f 67 65 6e 65 72 61 74 6f 72 [tclaim_generator]
+  | | | | |         02b7: 5f 69 6e 66 6f                                  [_info]
+  | | | | |    (indefinite count):
+  | | | | |       hash: <-1 pairs>
+  | | | | |         02bc: bf                                              [.]
+  | | | | |      0) text: 'name'
+  | | | | |           02bd: 64 6e 61 6d 65                                  [dname]
+  | | | | |         text: 'ChatGPT'
+  | | | | |           02c2: 67 43 68 61 74 47 50 54                         [gChatGPT]
+  | | | | |      1) text: 'org.contentauth.c2pa_rs'
+  | | | | |           02ca: 77 6f 72 67 2e 63 6f 6e 74 65 6e 74 61 75 74 68 [worg.contentauth]
+  | | | | |           02da: 2e 63 32 70 61 5f 72 73                         [.c2pa_rs]
+  | | | | |         text: '0.0.0'
+  | | | | |           02e2: 65 30 2e 30 2e 30                               [e0.0.0]
+  | | | | |      (indefinite count):
+  | | | | |      2) typ7: <break>
+  | | | | |           02e8: ff                                              [.]
+  | | | | |    2) text: 'signature'
+  | | | | |         02e9: 69 73 69 67 6e 61 74 75 72 65                   [isignature]
+  | | | | |       text: 'self#jumbf=/c2pa/urn:c2pa:94852476-5481-40ea-ae92-b0f62cae5ac2/c2pa.signature'
+  | | | | |         02f3: 78 4d 73 65 6c 66 23 6a 75 6d 62 66 3d 2f 63 32 [xMself#jumbf=/c2]
+  | | | | |         0303: 70 61 2f 75 72 6e 3a 63 32 70 61 3a 39 34 38 35 [pa/urn:c2pa:9485]
+  | | | | |         0313: 32 34 37 36 2d 35 34 38 31 2d 34 30 65 61 2d 61 [2476-5481-40ea-a]
+  | | | | |         0323: 65 39 32 2d 62 30 66 36 32 63 61 65 35 61 63 32 [e92-b0f62cae5ac2]
+  | | | | |         0333: 2f 63 32 70 61 2e 73 69 67 6e 61 74 75 72 65    [/c2pa.signature]
+  | | | | |    3) text: 'created_assertions'
+  | | | | |         0342: 72 63 72 65 61 74 65 64 5f 61 73 73 65 72 74 69 [rcreated_asserti]
+  | | | | |         0352: 6f 6e 73                                        [ons]
+  | | | | |       list: <2 elements>
+  | | | | |         0355: 82                                              [.]
+  | | | | |      0) hash: <2 pairs>
+  | | | | |           0356: a2                                              [.]
+  | | | | |        0) text: 'url'
+  | | | | |             0357: 63 75 72 6c                                     [curl]
+  | | | | |           text: 'self#jumbf=c2pa.assertions/c2pa.actions.v2'
+  | | | | |             035b: 78 2a 73 65 6c 66 23 6a 75 6d 62 66 3d 63 32 70 [x*self#jumbf=c2p]
+  | | | | |             036b: 61 2e 61 73 73 65 72 74 69 6f 6e 73 2f 63 32 70 [a.assertions/c2p]
+  | | | | |             037b: 61 2e 61 63 74 69 6f 6e 73 2e 76 32             [a.actions.v2]
+  | | | | |        1) text: 'hash'
+  | | | | |             0387: 64 68 61 73 68                                  [dhash]
+  | | | | |           byte: <binary data 32 bytes>
+  | | | | |             038c: 58 20 8f 4e a3 2a 2d 9a d1 89 da 62 3d 49 41 32 [X .N.*-....b=IA2]
+  | | | | |             039c: 40 fd f5 da 29 b9 9a 56 24 1a b1 8d 96 61 32 13 [@...)..V$....a2.]
+  | | | | |             03ac: 3c b5                                           [<.]
+  | | | | |      1) hash: <2 pairs>
+  | | | | |           03ae: a2                                              [.]
+  | | | | |        0) text: 'url'
+  | | | | |             03af: 63 75 72 6c                                     [curl]
+  | | | | |           text: 'self#jumbf=c2pa.assertions/c2pa.hash.data'
+  | | | | |             03b3: 78 29 73 65 6c 66 23 6a 75 6d 62 66 3d 63 32 70 [x)self#jumbf=c2p]
+  | | | | |             03c3: 61 2e 61 73 73 65 72 74 69 6f 6e 73 2f 63 32 70 [a.assertions/c2p]
+  | | | | |             03d3: 61 2e 68 61 73 68 2e 64 61 74 61                [a.hash.data]
+  | | | | |        1) text: 'hash'
+  | | | | |             03de: 64 68 61 73 68                                  [dhash]
+  | | | | |           byte: <binary data 32 bytes>
+  | | | | |             03e3: 58 20 12 6b d1 0d 8f 02 dd 32 55 ea bd a4 28 b7 [X .k.....2U...(.]
+  | | | | |             03f3: 6c c8 68 e8 b4 f5 6a 86 d6 9c f9 a9 c1 91 fd ae [l.h...j.........]
+  | | | | |             0403: 13 43                                           [.C]
+  | | | | |    4) text: 'dc:title'
+  | | | | |         0405: 68 64 63 3a 74 69 74 6c 65                      [hdc:title]
+  | | | | |       text: 'image.png'
+  | | | | |         040e: 69 69 6d 61 67 65 2e 70 6e 67                   [iimage.png]
+  | | | | |    5) text: 'alg'
+  | | | | |         0418: 63 61 6c 67                                     [calg]
+  | | | | |       text: 'sha256'
+  | | | | |         041c: 66 73 68 61 32 35 36                            [fsha256]
+  | | | | | InstanceID = xmp:iid:1627d07b-ca57-42d9-b909-f981a223dd6b
+  | | | | | Claim_Generator_InfoName = ChatGPT
+  | | | | | Claim_Generator_InfoOrgContentauthC2Pa_Rs = 0.0.0
+  | | | | | Signature = self#jumbf=/c2pa/urn:c2pa:94852476-5481-40ea-ae92-b0f62cae5ac2/[snip]
+  | | | | | Created_AssertionsUrl = self#jumbf=c2pa.assertions/c2pa.actions.v2
+  | | | | | Created_AssertionsHash = (Binary data 32 bytes)
+  | | | | | Created_AssertionsUrl = self#jumbf=c2pa.assertions/c2pa.hash.data
+  | | | | | Created_AssertionsHash = (Binary data 32 bytes)
+  | | | | | Title = image.png
+  | | | | | Alg = sha256
+  | | | JUMBFBox (SubDirectory) -->
+  | | | - Tag 'jumb' (13045 bytes):
+  | | |     042b: 00 00 00 28 6a 75 6d 64 63 32 63 73 00 11 00 10 [...(jumdc2cs....]
+  | | |     043b: 80 00 00 aa 00 38 9b 71 03 63 32 70 61 2e 73 69 [.....8.q.c2pa.si]
+  | | |     044b: 67 6e 61 74 75 72 65 00 00 00 32 cd 63 62 6f 72 [gnature...2.cbor]
+  | | |     045b: d2 84 59 07 c1 a2 01 26 18 21 82 59 03 37 30 82 [..Y....&.!.Y.70.]
+  | | |     046b: 03 33 30 82 02 1b a0 03 02 01 02 02 14 6e ae 28 [.30..........n.(]
+  | | |     [snip 12965 bytes]
+  | | | + [JUMBFBox directory]
+  | | | | JUMBFDescr (SubDirectory) -->
+  | | | | - Tag 'jumd' (32 bytes):
+  | | | |     0433: 63 32 63 73 00 11 00 10 80 00 00 aa 00 38 9b 71 [c2cs.........8.q]
+  | | | |     0443: 03 63 32 70 61 2e 73 69 67 6e 61 74 75 72 65 00 [.c2pa.signature.]
+  | | | | + [JUMD directory, 32 bytes]
+  | | | | | JUMDType = c2cs....8.q
+  | | | | | JUMDToggles = 3
+  | | | | | JUMDLabel = c2pa.signature
+  | | | | CBORData (SubDirectory) -->
+  | | | | - Tag 'cbor' (12997 bytes):
+  | | | |     045b: d2 84 59 07 c1 a2 01 26 18 21 82 59 03 37 30 82 [..Y....&.!.Y.70.]
+  | | | |     046b: 03 33 30 82 02 1b a0 03 02 01 02 02 14 6e ae 28 [.30..........n.(]
+  | | | |     047b: a3 ee c5 b8 e4 2a 36 fa 1d e6 41 15 ae 62 16 1b [.....*6...A..b..]
+  | | | |     048b: 3b 30 0d 06 09 2a 86 48 86 f7 0d 01 01 0c 05 00 [;0...*.H........]
+  | | | |     049b: 30 4a 31 1a 30 18 06 03 55 04 03 0c 11 57 65 62 [0J1.0...U....Web]
+  | | | |     [snip 12917 bytes]
+  | | | | + [CBOR directory, 12997 bytes]
+  | | | | |  <CBOR optional type 18 (COSE Sign1)>
+  | | | | |       045b: d2                                              [.]
+  | | | | |  list: <4 elements>
+  | | | | |       045c: 84                                              [.]
+  | | | | |    0) byte: <binary data 1985 bytes>
+  | | | | |         045d: 59 07 c1 a2 01 26 18 21 82 59 03 37 30 82 03 33 [Y....&.!.Y.70..3]
+  | | | | |         046d: 30 82 02 1b a0 03 02 01 02 02 14 6e ae 28 a3 ee [0..........n.(..]
+  | | | | |         047d: c5 b8 e4 2a 36 fa 1d e6 41 15 ae 62 16 1b 3b 30 [...*6...A..b..;0]
+  | | | | |         048d: 0d 06 09 2a 86 48 86 f7 0d 01 01 0c 05 00 30 4a [...*.H........0J]
+  | | | | |         049d: 31 1a 30 18 06 03 55 04 03 0c 11 57 65 62 43 6c [1.0...U....WebCl]
+  | | | | |         [snip 1908 bytes]
+  | | | | |    1) hash: <1 pairs>
+  | | | | |         0c21: a1                                              [.]
+  | | | | |      0) text: 'pad'
+  | | | | |           0c22: 63 70 61 64                                     [cpad]
+  | | | | |         byte: <binary data 10932 bytes>
+  | | | | |           0c26: 59 2a b4 00 00 00 00 00 00 00 00 00 00 00 00 00 [Y*..............]
+  | | | | |           0c36: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 [................]
+  | | | | |           0c46: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 [................]
+  | | | | |           0c56: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 [................]
+  | | | | |           0c66: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 [................]
+  | | | | |           [snip 10855 bytes]
+  | | | | |    2) typ7: null
+  | | | | |         36dd: f6                                              [.]
+  | | | | |    3) byte: <binary data 64 bytes>
+  | | | | |         36de: 58 40 d9 c6 c1 ae 37 d4 b7 37 08 c9 76 1f 04 53 [X@....7..7..v..S]
+  | | | | |         36ee: 45 37 c5 bd 47 db b6 16 0c 31 59 49 31 84 c4 ed [E7..G....1YI1...]
+  | | | | |         36fe: e0 5b 25 be b6 bb 0b 25 56 62 d0 65 6b e9 49 c3 [.[%....%Vb.ek.I.]
+  | | | | |         370e: f1 b3 9c 50 dd 7a 57 ff 31 7c ad ca 06 24 cf bb [...P.zW.1|...$..]
+  | | | | |         371e: 1a cc                                           [..]
+  | | | | | Item0 = (Binary data 1985 bytes)
+  | | | | | Item1Pad = (Binary data 10932 bytes)
+  | | | | | Item2 = null
+  | | | | | Item3 = (Binary data 64 bytes)
+  | | JUMBFBox (SubDirectory) -->
+  | | - Tag 'jumb' (35474 bytes):
+  | |     3728: 00 00 00 47 6a 75 6d 64 63 32 6d 61 00 11 00 10 [...Gjumdc2ma....]
+  | |     3738: 80 00 00 aa 00 38 9b 71 03 75 72 6e 3a 63 32 70 [.....8.q.urn:c2p]
+  | |     3748: 61 3a 66 33 37 31 39 66 63 36 2d 31 38 37 30 2d [a:f3719fc6-1870-]
+  | |     3758: 34 32 61 39 2d 38 33 38 38 2d 64 31 66 32 36 35 [42a9-8388-d1f265]
+  | |     3768: 31 62 66 30 32 35 00 00 00 54 8f 6a 75 6d 62 00 [1bf025...T.jumb.]
+  | |     [snip 35394 bytes]
+  | | + [JUMBFBox directory]
+  | | | JUMBFDescr (SubDirectory) -->
+  | | | - Tag 'jumd' (63 bytes):
+  | | |     3730: 63 32 6d 61 00 11 00 10 80 00 00 aa 00 38 9b 71 [c2ma.........8.q]
+  | | |     3740: 03 75 72 6e 3a 63 32 70 61 3a 66 33 37 31 39 66 [.urn:c2pa:f3719f]
+  | | |     3750: 63 36 2d 31 38 37 30 2d 34 32 61 39 2d 38 33 38 [c6-1870-42a9-838]
+  | | |     3760: 38 2d 64 31 66 32 36 35 31 62 66 30 32 35 00    [8-d1f2651bf025.]
+  | | | + [JUMD directory, 63 bytes]
+  | | | | JUMDType = c2ma....8.q
+  | | | | JUMDToggles = 3
+  | | | | JUMDLabel = urn:c2pa:f3719fc6-1870-42a9-8388-d1f2651bf025
+  | | | JUMBFBox (SubDirectory) -->
+  | | | - Tag 'jumb' (21639 bytes):
+  | | |     3777: 00 00 00 29 6a 75 6d 64 63 32 61 73 00 11 00 10 [...)jumdc2as....]
+  | | |     3787: 80 00 00 aa 00 38 9b 71 03 63 32 70 61 2e 61 73 [.....8.q.c2pa.as]
+  | | |     3797: 73 65 72 74 69 6f 6e 73 00 00 00 4c ff 6a 75 6d [sertions...L.jum]
+  | | |     37a7: 62 00 00 00 4b 6a 75 6d 64 40 cb 0c 32 bb 8a 48 [b...Kjumd@..2..H]
+  | | |     37b7: 9d a7 0b 2a d6 f4 7f 43 69 13 63 32 70 61 2e 74 [...*...Ci.c2pa.t]
+  | | |     [snip 21559 bytes]
+  | | | + [JUMBFBox directory]
+  | | | | JUMBFDescr (SubDirectory) -->
+  | | | | - Tag 'jumd' (33 bytes):
+  | | | |     377f: 63 32 61 73 00 11 00 10 80 00 00 aa 00 38 9b 71 [c2as.........8.q]
+  | | | |     378f: 03 63 32 70 61 2e 61 73 73 65 72 74 69 6f 6e 73 [.c2pa.assertions]
+  | | | |     379f: 00                                              [.]
+  | | | | + [JUMD directory, 33 bytes]
+  | | | | | JUMDType = c2as....8.q
+  | | | | | JUMDToggles = 3
+  | | | | | JUMDLabel = c2pa.assertions
+  | | | | JUMBFBox (SubDirectory) -->
+  | | | | - Tag 'jumb' (19703 bytes):
+  | | | |     37a8: 00 00 00 4b 6a 75 6d 64 40 cb 0c 32 bb 8a 48 9d [...Kjumd@..2..H.]
+  | | | |     37b8: a7 0b 2a d6 f4 7f 43 69 13 63 32 70 61 2e 74 68 [..*...Ci.c2pa.th]
+  | | | |     37c8: 75 6d 62 6e 61 69 6c 2e 69 6e 67 72 65 64 69 65 [umbnail.ingredie]
+  | | | |     37d8: 6e 74 00 00 00 00 18 63 32 73 68 91 cb 9b 0f 46 [nt.....c2sh....F]
+  | | | |     37e8: 5b a4 42 bb f3 78 d6 f7 c6 f8 ba 00 00 00 14 62 [[.B..x.........b]
+  | | | |     [snip 19623 bytes]
+  | | | | + [JUMBFBox directory]
+  | | | | | JUMBFDescr (SubDirectory) -->
+  | | | | | - Tag 'jumd' (67 bytes):
+  | | | | |     37b0: 40 cb 0c 32 bb 8a 48 9d a7 0b 2a d6 f4 7f 43 69 [@..2..H...*...Ci]
+  | | | | |     37c0: 13 63 32 70 61 2e 74 68 75 6d 62 6e 61 69 6c 2e [.c2pa.thumbnail.]
+  | | | | |     37d0: 69 6e 67 72 65 64 69 65 6e 74 00 00 00 00 18 63 [ingredient.....c]
+  | | | | |     37e0: 32 73 68 91 cb 9b 0f 46 5b a4 42 bb f3 78 d6 f7 [2sh....F[.B..x..]
+  | | | | |     37f0: c6 f8 ba                                        [...]
+  | | | | | + [JUMD directory, 67 bytes]
+  | | | | | | JUMDType = @..2..H...*...Ci
+  | | | | | | JUMDToggles = 19
+  | | | | | | JUMDLabel = c2pa.thumbnail.ingredient
+  | | | | | | + [JUMDPrivate directory]
+  | | | | | | | C2PAThumbnailIngredientSalt = ....F[.B..x.....
+  | | | | | | | - Tag 'c2sh' (16 bytes):
+  | | | | | | |     37e3: 91 cb 9b 0f 46 5b a4 42 bb f3 78 d6 f7 c6 f8 ba [....F[.B..x.....]
+  | | | | | C2PAThumbnailIngredientType = image/jpeg
+  | | | | | - Tag 'bfdb' (12 bytes):
+  | | | | |     37fb: 00 69 6d 61 67 65 2f 6a 70 65 67 00             [.image/jpeg.]
+  | | | | | C2PAThumbnailIngredientData = .....JFIF...........M...........C............[snip]
+  | | | | | - Tag 'bidb' (19600 bytes):
+  | | | | |     380f: ff d8 ff e0 00 10 4a 46 49 46 00 01 02 00 00 01 [......JFIF......]
+  | | | | |     381f: 00 01 00 00 ff c0 00 11 08 01 f4 01 4d 03 01 11 [............M...]
+  | | | | |     382f: 00 02 11 01 03 11 01 ff db 00 43 00 06 04 05 06 [..........C.....]
+  | | | | |     383f: 05 04 06 06 05 06 07 07 06 08 0a 10 0a 0a 09 09 [................]
+  | | | | |     384f: 0a 14 0e 0f 0c 10 17 14 18 18 17 14 16 16 1a 1d [................]
+  | | | | |     [snip 19520 bytes]
+  | | | | JUMBFBox (SubDirectory) -->
+  | | | | - Tag 'jumb' (1502 bytes):
+  | | | |     84a7: 00 00 00 2c 6a 75 6d 64 63 62 6f 72 00 11 00 10 [...,jumdcbor....]
+  | | | |     84b7: 80 00 00 aa 00 38 9b 71 03 63 32 70 61 2e 69 6e [.....8.q.c2pa.in]
+  | | | |     84c7: 67 72 65 64 69 65 6e 74 2e 76 33 00 00 00 05 b2 [gredient.v3.....]
+  | | | |     84d7: 63 62 6f 72 a8 6c 72 65 6c 61 74 69 6f 6e 73 68 [cbor.lrelationsh]
+  | | | |     84e7: 69 70 68 70 61 72 65 6e 74 4f 66 68 64 63 3a 74 [iphparentOfhdc:t]
+  | | | |     [snip 1422 bytes]
+  | | | | + [JUMBFBox directory]
+  | | | | | JUMBFDescr (SubDirectory) -->
+  | | | | | - Tag 'jumd' (36 bytes):
+  | | | | |     84af: 63 62 6f 72 00 11 00 10 80 00 00 aa 00 38 9b 71 [cbor.........8.q]
+  | | | | |     84bf: 03 63 32 70 61 2e 69 6e 67 72 65 64 69 65 6e 74 [.c2pa.ingredient]
+  | | | | |     84cf: 2e 76 33 00                                     [.v3.]
+  | | | | | + [JUMD directory, 36 bytes]
+  | | | | | | JUMDType = cbor....8.q
+  | | | | | | JUMDToggles = 3
+  | | | | | | JUMDLabel = c2pa.ingredient.v3
+  | | | | | CBORData (SubDirectory) -->
+  | | | | | - Tag 'cbor' (1450 bytes):
+  | | | | |     84db: a8 6c 72 65 6c 61 74 69 6f 6e 73 68 69 70 68 70 [.lrelationshiphp]
+  | | | | |     84eb: 61 72 65 6e 74 4f 66 68 64 63 3a 74 69 74 6c 65 [arentOfhdc:title]
+  | | | | |     84fb: 69 69 6d 61 67 65 2e 70 6e 67 69 64 63 3a 66 6f [iimage.pngidc:fo]
+  | | | | |     850b: 72 6d 61 74 63 70 6e 67 71 76 61 6c 69 64 61 74 [rmatcpngqvalidat]
+  | | | | |     851b: 69 6f 6e 52 65 73 75 6c 74 73 a1 6e 61 63 74 69 [ionResults.nacti]
+  | | | | |     [snip 1370 bytes]
+  | | | | | + [CBOR directory, 1450 bytes]
+  | | | | | |  hash: <8 pairs>
+  | | | | | |       84db: a8                                              [.]
+  | | | | | |    0) text: 'relationship'
+  | | | | | |         84dc: 6c 72 65 6c 61 74 69 6f 6e 73 68 69 70          [lrelationship]
+  | | | | | |       text: 'parentOf'
+  | | | | | |         84e9: 68 70 61 72 65 6e 74 4f 66                      [hparentOf]
+  | | | | | |    1) text: 'dc:title'
+  | | | | | |         84f2: 68 64 63 3a 74 69 74 6c 65                      [hdc:title]
+  | | | | | |       text: 'image.png'
+  | | | | | |         84fb: 69 69 6d 61 67 65 2e 70 6e 67                   [iimage.png]
+  | | | | | |    2) text: 'dc:format'
+  | | | | | |         8505: 69 64 63 3a 66 6f 72 6d 61 74                   [idc:format]
+  | | | | | |       text: 'png'
+  | | | | | |         850f: 63 70 6e 67                                     [cpng]
+  | | | | | |    3) text: 'validationResults'
+  | | | | | |         8513: 71 76 61 6c 69 64 61 74 69 6f 6e 52 65 73 75 6c [qvalidationResul]
+  | | | | | |         8523: 74 73                                           [ts]
+  | | | | | |       hash: <1 pairs>
+  | | | | | |         8525: a1                                              [.]
+  | | | | | |      0) text: 'activeManifest'
+  | | | | | |           8526: 6e 61 63 74 69 76 65 4d 61 6e 69 66 65 73 74    [nactiveManifest]
+  | | | | | |         hash: <3 pairs>
+  | | | | | |           8535: a3                                              [.]
+  | | | | | |        0) text: 'success'
+  | | | | | |             8536: 67 73 75 63 63 65 73 73                         [gsuccess]
+  | | | | | |           list: <5 elements>
+  | | | | | |             853e: 85                                              [.]
+  | | | | | |          0) hash: <3 pairs>
+  | | | | | |               853f: a3                                              [.]
+  | | | | | |            0) text: 'code'
+  | | | | | |                 8540: 64 63 6f 64 65                                  [dcode]
+  | | | | | |               text: 'claimSignature.insideValidity'
+  | | | | | |                 8545: 78 1d 63 6c 61 69 6d 53 69 67 6e 61 74 75 72 65 [x.claimSignature]
+  | | | | | |                 8555: 2e 69 6e 73 69 64 65 56 61 6c 69 64 69 74 79    [.insideValidity]
+  | | | | | |            1) text: 'url'
+  | | | | | |                 8564: 63 75 72 6c                                     [curl]
+  | | | | | |               text: 'self#jumbf=/c2pa/urn:c2pa:94852476-5481-40ea-ae92-b0f62cae5ac2/c2pa.signature'
+  | | | | | |                 8568: 78 4d 73 65 6c 66 23 6a 75 6d 62 66 3d 2f 63 32 [xMself#jumbf=/c2]
+  | | | | | |                 8578: 70 61 2f 75 72 6e 3a 63 32 70 61 3a 39 34 38 35 [pa/urn:c2pa:9485]
+  | | | | | |                 8588: 32 34 37 36 2d 35 34 38 31 2d 34 30 65 61 2d 61 [2476-5481-40ea-a]
+  | | | | | |                 8598: 65 39 32 2d 62 30 66 36 32 63 61 65 35 61 63 32 [e92-b0f62cae5ac2]
+  | | | | | |                 85a8: 2f 63 32 70 61 2e 73 69 67 6e 61 74 75 72 65    [/c2pa.signature]
+  | | | | | |            2) text: 'explanation'
+  | | | | | |                 85b7: 6b 65 78 70 6c 61 6e 61 74 69 6f 6e             [kexplanation]
+  | | | | | |               text: 'claim signature valid'
+  | | | | | |                 85c3: 75 63 6c 61 69 6d 20 73 69 67 6e 61 74 75 72 65 [uclaim signature]
+  | | | | | |                 85d3: 20 76 61 6c 69 64                               [ valid]
+  | | | | | |          1) hash: <3 pairs>
+  | | | | | |               85d9: a3                                              [.]
+  | | | | | |            0) text: 'code'
+  | | | | | |                 85da: 64 63 6f 64 65                                  [dcode]
+  | | | | | |               text: 'claimSignature.validated'
+  | | | | | |                 85df: 78 18 63 6c 61 69 6d 53 69 67 6e 61 74 75 72 65 [x.claimSignature]
+  | | | | | |                 85ef: 2e 76 61 6c 69 64 61 74 65 64                   [.validated]
+  | | | | | |            1) text: 'url'
+  | | | | | |                 85f9: 63 75 72 6c                                     [curl]
+  | | | | | |               text: 'self#jumbf=/c2pa/urn:c2pa:94852476-5481-40ea-ae92-b0f62cae5ac2/c2pa.signature'
+  | | | | | |                 85fd: 78 4d 73 65 6c 66 23 6a 75 6d 62 66 3d 2f 63 32 [xMself#jumbf=/c2]
+  | | | | | |                 860d: 70 61 2f 75 72 6e 3a 63 32 70 61 3a 39 34 38 35 [pa/urn:c2pa:9485]
+  | | | | | |                 861d: 32 34 37 36 2d 35 34 38 31 2d 34 30 65 61 2d 61 [2476-5481-40ea-a]
+  | | | | | |                 862d: 65 39 32 2d 62 30 66 36 32 63 61 65 35 61 63 32 [e92-b0f62cae5ac2]
+  | | | | | |                 863d: 2f 63 32 70 61 2e 73 69 67 6e 61 74 75 72 65    [/c2pa.signature]
+  | | | | | |            2) text: 'explanation'
+  | | | | | |                 864c: 6b 65 78 70 6c 61 6e 61 74 69 6f 6e             [kexplanation]
+  | | | | | |               text: 'claim signature valid'
+  | | | | | |                 8658: 75 63 6c 61 69 6d 20 73 69 67 6e 61 74 75 72 65 [uclaim signature]
+  | | | | | |                 8668: 20 76 61 6c 69 64                               [ valid]
+  | | | | | |          2) hash: <3 pairs>
+  | | | | | |               866e: a3                                              [.]
+  | | | | | |            0) text: 'code'
+  | | | | | |                 866f: 64 63 6f 64 65                                  [dcode]
+  | | | | | |               text: 'assertion.hashedURI.match'
+  | | | | | |                 8674: 78 19 61 73 73 65 72 74 69 6f 6e 2e 68 61 73 68 [x.assertion.hash]
+  | | | | | |                 8684: 65 64 55 52 49 2e 6d 61 74 63 68                [edURI.match]
+  | | | | | |            1) text: 'url'
+  | | | | | |                 868f: 63 75 72 6c                                     [curl]
+  | | | | | |               text: 'self#jumbf=/c2pa/urn:c2pa:94852476-5481-40ea-ae92-b0f62cae5ac2/c2pa.assertions/c2pa.actions.v2'
+  | | | | | |                 8693: 78 5e 73 65 6c 66 23 6a 75 6d 62 66 3d 2f 63 32 [x^self#jumbf=/c2]
+  | | | | | |                 86a3: 70 61 2f 75 72 6e 3a 63 32 70 61 3a 39 34 38 35 [pa/urn:c2pa:9485]
+  | | | | | |                 86b3: 32 34 37 36 2d 35 34 38 31 2d 34 30 65 61 2d 61 [2476-5481-40ea-a]
+  | | | | | |                 86c3: 65 39 32 2d 62 30 66 36 32 63 61 65 35 61 63 32 [e92-b0f62cae5ac2]
+  | | | | | |                 86d3: 2f 63 32 70 61 2e 61 73 73 65 72 74 69 6f 6e 73 [/c2pa.assertions]
+  | | | | | |                 86e3: 2f 63 32 70 61 2e 61 63 74 69 6f 6e 73 2e 76 32 [/c2pa.actions.v2]
+  | | | | | |            2) text: 'explanation'
+  | | | | | |                 86f3: 6b 65 78 70 6c 61 6e 61 74 69 6f 6e             [kexplanation]
+  | | | | | |               text: 'hashed uri matched: self#jumbf=c2pa.assertions/c2pa.actions.v2'
+  | | | | | |                 86ff: 78 3e 68 61 73 68 65 64 20 75 72 69 20 6d 61 74 [x>hashed uri mat]
+  | | | | | |                 870f: 63 68 65 64 3a 20 73 65 6c 66 23 6a 75 6d 62 66 [ched: self#jumbf]
+  | | | | | |                 871f: 3d 63 32 70 61 2e 61 73 73 65 72 74 69 6f 6e 73 [=c2pa.assertions]
+  | | | | | |                 872f: 2f 63 32 70 61 2e 61 63 74 69 6f 6e 73 2e 76 32 [/c2pa.actions.v2]
+  | | | | | |          3) hash: <3 pairs>
+  | | | | | |               873f: a3                                              [.]
+  | | | | | |            0) text: 'code'
+  | | | | | |                 8740: 64 63 6f 64 65                                  [dcode]
+  | | | | | |               text: 'assertion.hashedURI.match'
+  | | | | | |                 8745: 78 19 61 73 73 65 72 74 69 6f 6e 2e 68 61 73 68 [x.assertion.hash]
+  | | | | | |                 8755: 65 64 55 52 49 2e 6d 61 74 63 68                [edURI.match]
+  | | | | | |            1) text: 'url'
+  | | | | | |                 8760: 63 75 72 6c                                     [curl]
+  | | | | | |               text: 'self#jumbf=/c2pa/urn:c2pa:94852476-5481-40ea-ae92-b0f62cae5ac2/c2pa.assertions/c2pa.hash.data'
+  | | | | | |                 8764: 78 5d 73 65 6c 66 23 6a 75 6d 62 66 3d 2f 63 32 [x]self#jumbf=/c2]
+  | | | | | |                 8774: 70 61 2f 75 72 6e 3a 63 32 70 61 3a 39 34 38 35 [pa/urn:c2pa:9485]
+  | | | | | |                 8784: 32 34 37 36 2d 35 34 38 31 2d 34 30 65 61 2d 61 [2476-5481-40ea-a]
+  | | | | | |                 8794: 65 39 32 2d 62 30 66 36 32 63 61 65 35 61 63 32 [e92-b0f62cae5ac2]
+  | | | | | |                 87a4: 2f 63 32 70 61 2e 61 73 73 65 72 74 69 6f 6e 73 [/c2pa.assertions]
+  | | | | | |                 87b4: 2f 63 32 70 61 2e 68 61 73 68 2e 64 61 74 61    [/c2pa.hash.data]
+  | | | | | |            2) text: 'explanation'
+  | | | | | |                 87c3: 6b 65 78 70 6c 61 6e 61 74 69 6f 6e             [kexplanation]
+  | | | | | |               text: 'hashed uri matched: self#jumbf=c2pa.assertions/c2pa.hash.data'
+  | | | | | |                 87cf: 78 3d 68 61 73 68 65 64 20 75 72 69 20 6d 61 74 [x=hashed uri mat]
+  | | | | | |                 87df: 63 68 65 64 3a 20 73 65 6c 66 23 6a 75 6d 62 66 [ched: self#jumbf]
+  | | | | | |                 87ef: 3d 63 32 70 61 2e 61 73 73 65 72 74 69 6f 6e 73 [=c2pa.assertions]
+  | | | | | |                 87ff: 2f 63 32 70 61 2e 68 61 73 68 2e 64 61 74 61    [/c2pa.hash.data]
+  | | | | | |          4) hash: <3 pairs>
+  | | | | | |               880e: a3                                              [.]
+  | | | | | |            0) text: 'code'
+  | | | | | |                 880f: 64 63 6f 64 65                                  [dcode]
+  | | | | | |               text: 'assertion.dataHash.match'
+  | | | | | |                 8814: 78 18 61 73 73 65 72 74 69 6f 6e 2e 64 61 74 61 [x.assertion.data]
+  | | | | | |                 8824: 48 61 73 68 2e 6d 61 74 63 68                   [Hash.match]
+  | | | | | |            1) text: 'url'
+  | | | | | |                 882e: 63 75 72 6c                                     [curl]
+  | | | | | |               text: 'self#jumbf=/c2pa/urn:c2pa:94852476-5481-40ea-ae92-b0f62cae5ac2/c2pa.assertions/c2pa.hash.data'
+  | | | | | |                 8832: 78 5d 73 65 6c 66 23 6a 75 6d 62 66 3d 2f 63 32 [x]self#jumbf=/c2]
+  | | | | | |                 8842: 70 61 2f 75 72 6e 3a 63 32 70 61 3a 39 34 38 35 [pa/urn:c2pa:9485]
+  | | | | | |                 8852: 32 34 37 36 2d 35 34 38 31 2d 34 30 65 61 2d 61 [2476-5481-40ea-a]
+  | | | | | |                 8862: 65 39 32 2d 62 30 66 36 32 63 61 65 35 61 63 32 [e92-b0f62cae5ac2]
+  | | | | | |                 8872: 2f 63 32 70 61 2e 61 73 73 65 72 74 69 6f 6e 73 [/c2pa.assertions]
+  | | | | | |                 8882: 2f 63 32 70 61 2e 68 61 73 68 2e 64 61 74 61    [/c2pa.hash.data]
+  | | | | | |            2) text: 'explanation'
+  | | | | | |                 8891: 6b 65 78 70 6c 61 6e 61 74 69 6f 6e             [kexplanation]
+  | | | | | |               text: 'data hash valid'
+  | | | | | |                 889d: 6f 64 61 74 61 20 68 61 73 68 20 76 61 6c 69 64 [odata hash valid]
+  | | | | | |        1) text: 'informational'
+  | | | | | |             88ad: 6d 69 6e 66 6f 72 6d 61 74 69 6f 6e 61 6c       [minformational]
+  | | | | | |           list: <0 elements>
+  | | | | | |             88bb: 80                                              [.]
+  | | | | | |        2) text: 'failure'
+  | | | | | |             88bc: 67 66 61 69 6c 75 72 65                         [gfailure]
+  | | | | | |           list: <0 elements>
+  | | | | | |             88c4: 80                                              [.]
+  | | | | | |    4) text: 'instanceID'
+  | | | | | |         88c5: 6a 69 6e 73 74 61 6e 63 65 49 44                [jinstanceID]
+  | | | | | |       text: 'xmp:iid:3dd9a562-334e-4409-929d-531db2341c7d'
+  | | | | | |         88d0: 78 2c 78 6d 70 3a 69 69 64 3a 33 64 64 39 61 35 [x,xmp:iid:3dd9a5]
+  | | | | | |         88e0: 36 32 2d 33 33 34 65 2d 34 34 30 39 2d 39 32 39 [62-334e-4409-929]
+  | | | | | |         88f0: 64 2d 35 33 31 64 62 32 33 34 31 63 37 64       [d-531db2341c7d]
+  | | | | | |    5) text: 'activeManifest'
+  | | | | | |         88fe: 6e 61 63 74 69 76 65 4d 61 6e 69 66 65 73 74    [nactiveManifest]
+  | | | | | |       hash: <3 pairs>
+  | | | | | |         890d: a3                                              [.]
+  | | | | | |      0) text: 'url'
+  | | | | | |           890e: 63 75 72 6c                                     [curl]
+  | | | | | |         text: 'self#jumbf=/c2pa/urn:c2pa:94852476-5481-40ea-ae92-b0f62cae5ac2'
+  | | | | | |           8912: 78 3e 73 65 6c 66 23 6a 75 6d 62 66 3d 2f 63 32 [x>self#jumbf=/c2]
+  | | | | | |           8922: 70 61 2f 75 72 6e 3a 63 32 70 61 3a 39 34 38 35 [pa/urn:c2pa:9485]
+  | | | | | |           8932: 32 34 37 36 2d 35 34 38 31 2d 34 30 65 61 2d 61 [2476-5481-40ea-a]
+  | | | | | |           8942: 65 39 32 2d 62 30 66 36 32 63 61 65 35 61 63 32 [e92-b0f62cae5ac2]
+  | | | | | |      1) text: 'alg'
+  | | | | | |           8952: 63 61 6c 67                                     [calg]
+  | | | | | |         text: 'sha256'
+  | | | | | |           8956: 66 73 68 61 32 35 36                            [fsha256]
+  | | | | | |      2) text: 'hash'
+  | | | | | |           895d: 64 68 61 73 68                                  [dhash]
+  | | | | | |         byte: <binary data 32 bytes>
+  | | | | | |           8962: 58 20 62 c0 ea 05 78 4d f0 12 ee b5 8f 1b 2d ab [X b...xM......-.]
+  | | | | | |           8972: 43 a4 9e c9 5a 14 a4 c3 52 b6 f3 d4 ec 7a dc 15 [C...Z...R....z..]
+  | | | | | |           8982: 23 56                                           [#V]
+  | | | | | |    6) text: 'claimSignature'
+  | | | | | |         8984: 6e 63 6c 61 69 6d 53 69 67 6e 61 74 75 72 65    [nclaimSignature]
+  | | | | | |       hash: <3 pairs>
+  | | | | | |         8993: a3                                              [.]
+  | | | | | |      0) text: 'url'
+  | | | | | |           8994: 63 75 72 6c                                     [curl]
+  | | | | | |         text: 'self#jumbf=/c2pa/urn:c2pa:94852476-5481-40ea-ae92-b0f62cae5ac2/c2pa.signature'
+  | | | | | |           8998: 78 4d 73 65 6c 66 23 6a 75 6d 62 66 3d 2f 63 32 [xMself#jumbf=/c2]
+  | | | | | |           89a8: 70 61 2f 75 72 6e 3a 63 32 70 61 3a 39 34 38 35 [pa/urn:c2pa:9485]
+  | | | | | |           89b8: 32 34 37 36 2d 35 34 38 31 2d 34 30 65 61 2d 61 [2476-5481-40ea-a]
+  | | | | | |           89c8: 65 39 32 2d 62 30 66 36 32 63 61 65 35 61 63 32 [e92-b0f62cae5ac2]
+  | | | | | |           89d8: 2f 63 32 70 61 2e 73 69 67 6e 61 74 75 72 65    [/c2pa.signature]
+  | | | | | |      1) text: 'alg'
+  | | | | | |           89e7: 63 61 6c 67                                     [calg]
+  | | | | | |         text: 'sha256'
+  | | | | | |           89eb: 66 73 68 61 32 35 36                            [fsha256]
+  | | | | | |      2) text: 'hash'
+  | | | | | |           89f2: 64 68 61 73 68                                  [dhash]
+  | | | | | |         byte: <binary data 32 bytes>
+  | | | | | |           89f7: 58 20 7f 1b 26 0f eb 5f 4e 85 99 85 ea 40 af bb [X ..&.._N....@..]
+  | | | | | |           8a07: 8c 41 62 ce 7b 08 fd da 1f f0 2d 04 93 e4 25 4d [.Ab.{.....-...%M]
+  | | | | | |           8a17: a2 c9                                           [..]
+  | | | | | |    7) text: 'thumbnail'
+  | | | | | |         8a19: 69 74 68 75 6d 62 6e 61 69 6c                   [ithumbnail]
+  | | | | | |       hash: <2 pairs>
+  | | | | | |         8a23: a2                                              [.]
+  | | | | | |      0) text: 'url'
+  | | | | | |           8a24: 63 75 72 6c                                     [curl]
+  | | | | | |         text: 'self#jumbf=c2pa.assertions/c2pa.thumbnail.ingredient'
+  | | | | | |           8a28: 78 34 73 65 6c 66 23 6a 75 6d 62 66 3d 63 32 70 [x4self#jumbf=c2p]
+  | | | | | |           8a38: 61 2e 61 73 73 65 72 74 69 6f 6e 73 2f 63 32 70 [a.assertions/c2p]
+  | | | | | |           8a48: 61 2e 74 68 75 6d 62 6e 61 69 6c 2e 69 6e 67 72 [a.thumbnail.ingr]
+  | | | | | |           8a58: 65 64 69 65 6e 74                               [edient]
+  | | | | | |      1) text: 'hash'
+  | | | | | |           8a5e: 64 68 61 73 68                                  [dhash]
+  | | | | | |         byte: <binary data 32 bytes>
+  | | | | | |           8a63: 58 20 9e 85 2f 43 93 16 f1 3e 56 8f 4b c4 9c 8d [X ../C...>V.K...]
+  | | | | | |           8a73: 02 02 d2 46 51 56 a5 43 f2 9f 61 bf 08 a6 89 8b [...FQV.C..a.....]
+  | | | | | |           8a83: 3a 24                                           [:$]
+  | | | | | | Relationship = parentOf
+  | | | | | | Title = image.png
+  | | | | | | Format = png
+  | | | | | | ValidationResultsActiveManifestSuccessCode = claimSignature.insideValidity
+  | | | | | | ValidationResultsActiveManifestSuccessUrl = self#jumbf=/c2pa/urn:c2pa:948[snip]
+  | | | | | | ValidationResultsActiveManifestSuccessExplanation = claim signature valid
+  | | | | | | ValidationResultsActiveManifestSuccessCode = claimSignature.validated
+  | | | | | | ValidationResultsActiveManifestSuccessUrl = self#jumbf=/c2pa/urn:c2pa:948[snip]
+  | | | | | | ValidationResultsActiveManifestSuccessExplanation = claim signature valid
+  | | | | | | ValidationResultsActiveManifestSuccessCode = assertion.hashedURI.match
+  | | | | | | ValidationResultsActiveManifestSuccessUrl = self#jumbf=/c2pa/urn:c2pa:948[snip]
+  | | | | | | ValidationResultsActiveManifestSuccessExplanation = hashed uri matched: s[snip]
+  | | | | | | ValidationResultsActiveManifestSuccessCode = assertion.hashedURI.match
+  | | | | | | ValidationResultsActiveManifestSuccessUrl = self#jumbf=/c2pa/urn:c2pa:948[snip]
+  | | | | | | ValidationResultsActiveManifestSuccessExplanation = hashed uri matched: s[snip]
+  | | | | | | ValidationResultsActiveManifestSuccessCode = assertion.dataHash.match
+  | | | | | | ValidationResultsActiveManifestSuccessUrl = self#jumbf=/c2pa/urn:c2pa:948[snip]
+  | | | | | | ValidationResultsActiveManifestSuccessExplanation = data hash valid
+  | | | | | | InstanceID = xmp:iid:3dd9a562-334e-4409-929d-531db2341c7d
+  | | | | | | ActiveManifestUrl = self#jumbf=/c2pa/urn:c2pa:94852476-5481-40ea-ae92-b0f[snip]
+  | | | | | | ActiveManifestAlg = sha256
+  | | | | | | ActiveManifestHash = (Binary data 32 bytes)
+  | | | | | | ClaimSignatureUrl = self#jumbf=/c2pa/urn:c2pa:94852476-5481-40ea-ae92-b0f[snip]
+  | | | | | | ClaimSignatureAlg = sha256
+  | | | | | | ClaimSignatureHash = (Binary data 32 bytes)
+  | | | | | | ThumbnailURL = self#jumbf=c2pa.assertions/c2pa.thumbnail.ingredient
+  | | | | | | ThumbnailHash = (Binary data 32 bytes)
+  | | | | JUMBFBox (SubDirectory) -->
+  | | | | - Tag 'jumb' (196 bytes):
+  | | | |     8a8d: 00 00 00 29 6a 75 6d 64 63 62 6f 72 00 11 00 10 [...)jumdcbor....]
+  | | | |     8a9d: 80 00 00 aa 00 38 9b 71 03 63 32 70 61 2e 61 63 [.....8.q.c2pa.ac]
+  | | | |     8aad: 74 69 6f 6e 73 2e 76 32 00 00 00 00 9b 63 62 6f [tions.v2.....cbo]
+  | | | |     8abd: 72 a1 67 61 63 74 69 6f 6e 73 81 a2 66 61 63 74 [r.gactions..fact]
+  | | | |     8acd: 69 6f 6e 6b 63 32 70 61 2e 6f 70 65 6e 65 64 6a [ionkc2pa.openedj]
+  | | | |     [snip 116 bytes]
+  | | | | + [JUMBFBox directory]
+  | | | | | JUMBFDescr (SubDirectory) -->
+  | | | | | - Tag 'jumd' (33 bytes):
+  | | | | |     8a95: 63 62 6f 72 00 11 00 10 80 00 00 aa 00 38 9b 71 [cbor.........8.q]
+  | | | | |     8aa5: 03 63 32 70 61 2e 61 63 74 69 6f 6e 73 2e 76 32 [.c2pa.actions.v2]
+  | | | | |     8ab5: 00                                              [.]
+  | | | | | + [JUMD directory, 33 bytes]
+  | | | | | | JUMDType = cbor....8.q
+  | | | | | | JUMDToggles = 3
+  | | | | | | JUMDLabel = c2pa.actions.v2
+  | | | | | CBORData (SubDirectory) -->
+  | | | | | - Tag 'cbor' (147 bytes):
+  | | | | |     8abe: a1 67 61 63 74 69 6f 6e 73 81 a2 66 61 63 74 69 [.gactions..facti]
+  | | | | |     8ace: 6f 6e 6b 63 32 70 61 2e 6f 70 65 6e 65 64 6a 70 [onkc2pa.openedjp]
+  | | | | |     8ade: 61 72 61 6d 65 74 65 72 73 bf 6b 69 6e 67 72 65 [arameters.kingre]
+  | | | | |     8aee: 64 69 65 6e 74 73 81 a2 63 75 72 6c 78 2d 73 65 [dients..curlx-se]
+  | | | | |     8afe: 6c 66 23 6a 75 6d 62 66 3d 63 32 70 61 2e 61 73 [lf#jumbf=c2pa.as]
+  | | | | |     [snip 67 bytes]
+  | | | | | + [CBOR directory, 147 bytes]
+  | | | | | |  hash: <1 pairs>
+  | | | | | |       8abe: a1                                              [.]
+  | | | | | |    0) text: 'actions'
+  | | | | | |         8abf: 67 61 63 74 69 6f 6e 73                         [gactions]
+  | | | | | |       list: <1 elements>
+  | | | | | |         8ac7: 81                                              [.]
+  | | | | | |      0) hash: <2 pairs>
+  | | | | | |           8ac8: a2                                              [.]
+  | | | | | |        0) text: 'action'
+  | | | | | |             8ac9: 66 61 63 74 69 6f 6e                            [faction]
+  | | | | | |           text: 'c2pa.opened'
+  | | | | | |             8ad0: 6b 63 32 70 61 2e 6f 70 65 6e 65 64             [kc2pa.opened]
+  | | | | | |        1) text: 'parameters'
+  | | | | | |             8adc: 6a 70 61 72 61 6d 65 74 65 72 73                [jparameters]
+  | | | | | |        (indefinite count):
+  | | | | | |           hash: <-1 pairs>
+  | | | | | |             8ae7: bf                                              [.]
+  | | | | | |          0) text: 'ingredients'
+  | | | | | |               8ae8: 6b 69 6e 67 72 65 64 69 65 6e 74 73             [kingredients]
+  | | | | | |             list: <1 elements>
+  | | | | | |               8af4: 81                                              [.]
+  | | | | | |            0) hash: <2 pairs>
+  | | | | | |                 8af5: a2                                              [.]
+  | | | | | |              0) text: 'url'
+  | | | | | |                   8af6: 63 75 72 6c                                     [curl]
+  | | | | | |                 text: 'self#jumbf=c2pa.assertions/c2pa.ingredient.v3'
+  | | | | | |                   8afa: 78 2d 73 65 6c 66 23 6a 75 6d 62 66 3d 63 32 70 [x-self#jumbf=c2p]
+  | | | | | |                   8b0a: 61 2e 61 73 73 65 72 74 69 6f 6e 73 2f 63 32 70 [a.assertions/c2p]
+  | | | | | |                   8b1a: 61 2e 69 6e 67 72 65 64 69 65 6e 74 2e 76 33    [a.ingredient.v3]
+  | | | | | |              1) text: 'hash'
+  | | | | | |                   8b29: 64 68 61 73 68                                  [dhash]
+  | | | | | |                 byte: <binary data 32 bytes>
+  | | | | | |                   8b2e: 58 20 36 e1 1d b8 bd c1 f7 3d 24 44 11 cc cf 6a [X 6......=$D...j]
+  | | | | | |                   8b3e: 9d 7b 92 cd c5 18 3c 29 ab 7c c3 c8 c5 7c 26 cd [.{....<).|...|&.]
+  | | | | | |                   8b4e: 52 f4                                           [R.]
+  | | | | | |          (indefinite count):
+  | | | | | |          1) typ7: <break>
+  | | | | | |               8b50: ff                                              [.]
+  | | | | | | ActionsAction = c2pa.opened
+  | | | | | | ActionsParametersIngredientsUrl = self#jumbf=c2pa.assertions/c2pa.ingredient.v3
+  | | | | | | ActionsParametersIngredientsHash = (Binary data 32 bytes)
+  | | | | JUMBFBox (SubDirectory) -->
+  | | | | - Tag 'jumb' (165 bytes):
+  | | | |     8b59: 00 00 00 28 6a 75 6d 64 63 62 6f 72 00 11 00 10 [...(jumdcbor....]
+  | | | |     8b69: 80 00 00 aa 00 38 9b 71 03 63 32 70 61 2e 68 61 [.....8.q.c2pa.ha]
+  | | | |     8b79: 73 68 2e 64 61 74 61 00 00 00 00 7d 63 62 6f 72 [sh.data....}cbor]
+  | | | |     8b89: a5 6a 65 78 63 6c 75 73 69 6f 6e 73 81 a2 65 73 [.jexclusions..es]
+  | | | |     8b99: 74 61 72 74 18 21 66 6c 65 6e 67 74 68 19 c1 c6 [tart.!flength...]
+  | | | |     [snip 85 bytes]
+  | | | | + [JUMBFBox directory]
+  | | | | | JUMBFDescr (SubDirectory) -->
+  | | | | | - Tag 'jumd' (32 bytes):
+  | | | | |     8b61: 63 62 6f 72 00 11 00 10 80 00 00 aa 00 38 9b 71 [cbor.........8.q]
+  | | | | |     8b71: 03 63 32 70 61 2e 68 61 73 68 2e 64 61 74 61 00 [.c2pa.hash.data.]
+  | | | | | + [JUMD directory, 32 bytes]
+  | | | | | | JUMDType = cbor....8.q
+  | | | | | | JUMDToggles = 3
+  | | | | | | JUMDLabel = c2pa.hash.data
+  | | | | | CBORData (SubDirectory) -->
+  | | | | | - Tag 'cbor' (117 bytes):
+  | | | | |     8b89: a5 6a 65 78 63 6c 75 73 69 6f 6e 73 81 a2 65 73 [.jexclusions..es]
+  | | | | |     8b99: 74 61 72 74 18 21 66 6c 65 6e 67 74 68 19 c1 c6 [tart.!flength...]
+  | | | | |     8ba9: 64 6e 61 6d 65 6e 6a 75 6d 62 66 20 6d 61 6e 69 [dnamenjumbf mani]
+  | | | | |     8bb9: 66 65 73 74 63 61 6c 67 66 73 68 61 32 35 36 64 [festcalgfsha256d]
+  | | | | |     8bc9: 68 61 73 68 58 20 40 fb 59 ef 69 64 4e c8 09 f4 [hashX @.Y.idN...]
+  | | | | |     [snip 37 bytes]
+  | | | | | + [CBOR directory, 117 bytes]
+  | | | | | |  hash: <5 pairs>
+  | | | | | |       8b89: a5                                              [.]
+  | | | | | |    0) text: 'exclusions'
+  | | | | | |         8b8a: 6a 65 78 63 6c 75 73 69 6f 6e 73                [jexclusions]
+  | | | | | |       list: <1 elements>
+  | | | | | |         8b95: 81                                              [.]
+  | | | | | |      0) hash: <2 pairs>
+  | | | | | |           8b96: a2                                              [.]
+  | | | | | |        0) text: 'start'
+  | | | | | |             8b97: 65 73 74 61 72 74                               [estart]
+  | | | | | |           int+: 33
+  | | | | | |             8b9d: 18 21                                           [.!]
+  | | | | | |        1) text: 'length'
+  | | | | | |             8b9f: 66 6c 65 6e 67 74 68                            [flength]
+  | | | | | |           int+: 49606
+  | | | | | |             8ba6: 19 c1 c6                                        [...]
+  | | | | | |    1) text: 'name'
+  | | | | | |         8ba9: 64 6e 61 6d 65                                  [dname]
+  | | | | | |       text: 'jumbf manifest'
+  | | | | | |         8bae: 6e 6a 75 6d 62 66 20 6d 61 6e 69 66 65 73 74    [njumbf manifest]
+  | | | | | |    2) text: 'alg'
+  | | | | | |         8bbd: 63 61 6c 67                                     [calg]
+  | | | | | |       text: 'sha256'
+  | | | | | |         8bc1: 66 73 68 61 32 35 36                            [fsha256]
+  | | | | | |    3) text: 'hash'
+  | | | | | |         8bc8: 64 68 61 73 68                                  [dhash]
+  | | | | | |       byte: <binary data 32 bytes>
+  | | | | | |         8bcd: 58 20 40 fb 59 ef 69 64 4e c8 09 f4 d5 88 72 5d [X @.Y.idN.....r]]
+  | | | | | |         8bdd: d8 41 d5 6f 41 fc aa f6 52 34 1a 8c d4 06 cd d7 [.A.oA...R4......]
+  | | | | | |         8bed: 5b 04                                           [[.]
+  | | | | | |    4) text: 'pad'
+  | | | | | |         8bef: 63 70 61 64                                     [cpad]
+  | | | | | |       byte: <binary data 10 bytes>
+  | | | | | |         8bf3: 4a 00 00 00 00 00 00 00 00 00 00                [J..........]
+  | | | | | | ExclusionsStart = 33
+  | | | | | | ExclusionsLength = 49606
+  | | | | | | Name = jumbf manifest
+  | | | | | | Alg = sha256
+  | | | | | | Hash = (Binary data 32 bytes)
+  | | | | | | Pad = (Binary data 10 bytes)
+  | | | JUMBFBox (SubDirectory) -->
+  | | | - Tag 'jumb' (695 bytes):
+  | | |     8c06: 00 00 00 27 6a 75 6d 64 63 32 63 6c 00 11 00 10 [...'jumdc2cl....]
+  | | |     8c16: 80 00 00 aa 00 38 9b 71 03 63 32 70 61 2e 63 6c [.....8.q.c2pa.cl]
+  | | |     8c26: 61 69 6d 2e 76 32 00 00 00 02 90 63 62 6f 72 a7 [aim.v2.....cbor.]
+  | | |     8c36: 6a 69 6e 73 74 61 6e 63 65 49 44 78 2c 78 6d 70 [jinstanceIDx,xmp]
+  | | |     8c46: 3a 69 69 64 3a 38 64 62 61 36 38 36 32 2d 30 35 [:iid:8dba6862-05]
+  | | |     [snip 615 bytes]
+  | | | + [JUMBFBox directory]
+  | | | | JUMBFDescr (SubDirectory) -->
+  | | | | - Tag 'jumd' (31 bytes):
+  | | | |     8c0e: 63 32 63 6c 00 11 00 10 80 00 00 aa 00 38 9b 71 [c2cl.........8.q]
+  | | | |     8c1e: 03 63 32 70 61 2e 63 6c 61 69 6d 2e 76 32 00    [.c2pa.claim.v2.]
+  | | | | + [JUMD directory, 31 bytes]
+  | | | | | JUMDType = c2cl....8.q
+  | | | | | JUMDToggles = 3
+  | | | | | JUMDLabel = c2pa.claim.v2
+  | | | | CBORData (SubDirectory) -->
+  | | | | - Tag 'cbor' (648 bytes):
+  | | | |     8c35: a7 6a 69 6e 73 74 61 6e 63 65 49 44 78 2c 78 6d [.jinstanceIDx,xm]
+  | | | |     8c45: 70 3a 69 69 64 3a 38 64 62 61 36 38 36 32 2d 30 [p:iid:8dba6862-0]
+  | | | |     8c55: 35 38 62 2d 34 35 64 39 2d 39 38 32 38 2d 63 32 [58b-45d9-9828-c2]
+  | | | |     8c65: 39 64 65 63 65 39 62 34 62 39 74 63 6c 61 69 6d [9dece9b4b9tclaim]
+  | | | |     8c75: 5f 67 65 6e 65 72 61 74 6f 72 5f 69 6e 66 6f bf [_generator_info.]
+  | | | |     [snip 568 bytes]
+  | | | | + [CBOR directory, 648 bytes]
+  | | | | |  hash: <7 pairs>
+  | | | | |       8c35: a7                                              [.]
+  | | | | |    0) text: 'instanceID'
+  | | | | |         8c36: 6a 69 6e 73 74 61 6e 63 65 49 44                [jinstanceID]
+  | | | | |       text: 'xmp:iid:8dba6862-058b-45d9-9828-c29dece9b4b9'
+  | | | | |         8c41: 78 2c 78 6d 70 3a 69 69 64 3a 38 64 62 61 36 38 [x,xmp:iid:8dba68]
+  | | | | |         8c51: 36 32 2d 30 35 38 62 2d 34 35 64 39 2d 39 38 32 [62-058b-45d9-982]
+  | | | | |         8c61: 38 2d 63 32 39 64 65 63 65 39 62 34 62 39       [8-c29dece9b4b9]
+  | | | | |    1) text: 'claim_generator_info'
+  | | | | |         8c6f: 74 63 6c 61 69 6d 5f 67 65 6e 65 72 61 74 6f 72 [tclaim_generator]
+  | | | | |         8c7f: 5f 69 6e 66 6f                                  [_info]
+  | | | | |    (indefinite count):
+  | | | | |       hash: <-1 pairs>
+  | | | | |         8c84: bf                                              [.]
+  | | | | |      0) text: 'name'
+  | | | | |           8c85: 64 6e 61 6d 65                                  [dname]
+  | | | | |         text: 'ChatGPT'
+  | | | | |           8c8a: 67 43 68 61 74 47 50 54                         [gChatGPT]
+  | | | | |      1) text: 'org.contentauth.c2pa_rs'
+  | | | | |           8c92: 77 6f 72 67 2e 63 6f 6e 74 65 6e 74 61 75 74 68 [worg.contentauth]
+  | | | | |           8ca2: 2e 63 32 70 61 5f 72 73                         [.c2pa_rs]
+  | | | | |         text: '0.0.0'
+  | | | | |           8caa: 65 30 2e 30 2e 30                               [e0.0.0]
+  | | | | |      (indefinite count):
+  | | | | |      2) typ7: <break>
+  | | | | |           8cb0: ff                                              [.]
+  | | | | |    2) text: 'signature'
+  | | | | |         8cb1: 69 73 69 67 6e 61 74 75 72 65                   [isignature]
+  | | | | |       text: 'self#jumbf=/c2pa/urn:c2pa:f3719fc6-1870-42a9-8388-d1f2651bf025/c2pa.signature'
+  | | | | |         8cbb: 78 4d 73 65 6c 66 23 6a 75 6d 62 66 3d 2f 63 32 [xMself#jumbf=/c2]
+  | | | | |         8ccb: 70 61 2f 75 72 6e 3a 63 32 70 61 3a 66 33 37 31 [pa/urn:c2pa:f371]
+  | | | | |         8cdb: 39 66 63 36 2d 31 38 37 30 2d 34 32 61 39 2d 38 [9fc6-1870-42a9-8]
+  | | | | |         8ceb: 33 38 38 2d 64 31 66 32 36 35 31 62 66 30 32 35 [388-d1f2651bf025]
+  | | | | |         8cfb: 2f 63 32 70 61 2e 73 69 67 6e 61 74 75 72 65    [/c2pa.signature]
+  | | | | |    3) text: 'created_assertions'
+  | | | | |         8d0a: 72 63 72 65 61 74 65 64 5f 61 73 73 65 72 74 69 [rcreated_asserti]
+  | | | | |         8d1a: 6f 6e 73                                        [ons]
+  | | | | |       list: <4 elements>
+  | | | | |         8d1d: 84                                              [.]
+  | | | | |      0) hash: <2 pairs>
+  | | | | |           8d1e: a2                                              [.]
+  | | | | |        0) text: 'url'
+  | | | | |             8d1f: 63 75 72 6c                                     [curl]
+  | | | | |           text: 'self#jumbf=c2pa.assertions/c2pa.thumbnail.ingredient'
+  | | | | |             8d23: 78 34 73 65 6c 66 23 6a 75 6d 62 66 3d 63 32 70 [x4self#jumbf=c2p]
+  | | | | |             8d33: 61 2e 61 73 73 65 72 74 69 6f 6e 73 2f 63 32 70 [a.assertions/c2p]
+  | | | | |             8d43: 61 2e 74 68 75 6d 62 6e 61 69 6c 2e 69 6e 67 72 [a.thumbnail.ingr]
+  | | | | |             8d53: 65 64 69 65 6e 74                               [edient]
+  | | | | |        1) text: 'hash'
+  | | | | |             8d59: 64 68 61 73 68                                  [dhash]
+  | | | | |           byte: <binary data 32 bytes>
+  | | | | |             8d5e: 58 20 9e 85 2f 43 93 16 f1 3e 56 8f 4b c4 9c 8d [X ../C...>V.K...]
+  | | | | |             8d6e: 02 02 d2 46 51 56 a5 43 f2 9f 61 bf 08 a6 89 8b [...FQV.C..a.....]
+  | | | | |             8d7e: 3a 24                                           [:$]
+  | | | | |      1) hash: <2 pairs>
+  | | | | |           8d80: a2                                              [.]
+  | | | | |        0) text: 'url'
+  | | | | |             8d81: 63 75 72 6c                                     [curl]
+  | | | | |           text: 'self#jumbf=c2pa.assertions/c2pa.ingredient.v3'
+  | | | | |             8d85: 78 2d 73 65 6c 66 23 6a 75 6d 62 66 3d 63 32 70 [x-self#jumbf=c2p]
+  | | | | |             8d95: 61 2e 61 73 73 65 72 74 69 6f 6e 73 2f 63 32 70 [a.assertions/c2p]
+  | | | | |             8da5: 61 2e 69 6e 67 72 65 64 69 65 6e 74 2e 76 33    [a.ingredient.v3]
+  | | | | |        1) text: 'hash'
+  | | | | |             8db4: 64 68 61 73 68                                  [dhash]
+  | | | | |           byte: <binary data 32 bytes>
+  | | | | |             8db9: 58 20 36 e1 1d b8 bd c1 f7 3d 24 44 11 cc cf 6a [X 6......=$D...j]
+  | | | | |             8dc9: 9d 7b 92 cd c5 18 3c 29 ab 7c c3 c8 c5 7c 26 cd [.{....<).|...|&.]
+  | | | | |             8dd9: 52 f4                                           [R.]
+  | | | | |      2) hash: <2 pairs>
+  | | | | |           8ddb: a2                                              [.]
+  | | | | |        0) text: 'url'
+  | | | | |             8ddc: 63 75 72 6c                                     [curl]
+  | | | | |           text: 'self#jumbf=c2pa.assertions/c2pa.actions.v2'
+  | | | | |             8de0: 78 2a 73 65 6c 66 23 6a 75 6d 62 66 3d 63 32 70 [x*self#jumbf=c2p]
+  | | | | |             8df0: 61 2e 61 73 73 65 72 74 69 6f 6e 73 2f 63 32 70 [a.assertions/c2p]
+  | | | | |             8e00: 61 2e 61 63 74 69 6f 6e 73 2e 76 32             [a.actions.v2]
+  | | | | |        1) text: 'hash'
+  | | | | |             8e0c: 64 68 61 73 68                                  [dhash]
+  | | | | |           byte: <binary data 32 bytes>
+  | | | | |             8e11: 58 20 54 79 61 2f 41 21 c0 73 b3 66 76 16 a1 6c [X Tya/A!.s.fv..l]
+  | | | | |             8e21: 77 be 4b bc d2 97 1f eb 54 f4 23 86 88 dd 9d 8a [w.K.....T.#.....]
+  | | | | |             8e31: c5 99                                           [..]
+  | | | | |      3) hash: <2 pairs>
+  | | | | |           8e33: a2                                              [.]
+  | | | | |        0) text: 'url'
+  | | | | |             8e34: 63 75 72 6c                                     [curl]
+  | | | | |           text: 'self#jumbf=c2pa.assertions/c2pa.hash.data'
+  | | | | |             8e38: 78 29 73 65 6c 66 23 6a 75 6d 62 66 3d 63 32 70 [x)self#jumbf=c2p]
+  | | | | |             8e48: 61 2e 61 73 73 65 72 74 69 6f 6e 73 2f 63 32 70 [a.assertions/c2p]
+  | | | | |             8e58: 61 2e 68 61 73 68 2e 64 61 74 61                [a.hash.data]
+  | | | | |        1) text: 'hash'
+  | | | | |             8e63: 64 68 61 73 68                                  [dhash]
+  | | | | |           byte: <binary data 32 bytes>
+  | | | | |             8e68: 58 20 ee 8e a7 12 b8 30 6d 2e ec 3c 98 c3 28 73 [X .....0m..<..(s]
+  | | | | |             8e78: 6f aa d5 b3 07 23 a3 d4 22 00 00 b7 74 94 5a 2a [o....#.."...t.Z*]
+  | | | | |             8e88: 0a 72                                           [.r]
+  | | | | |    4) text: 'dc:title'
+  | | | | |         8e8a: 68 64 63 3a 74 69 74 6c 65                      [hdc:title]
+  | | | | |       text: 'image.png'
+  | | | | |         8e93: 69 69 6d 61 67 65 2e 70 6e 67                   [iimage.png]
+  | | | | |    5) text: 'redacted_assertions'
+  | | | | |         8e9d: 73 72 65 64 61 63 74 65 64 5f 61 73 73 65 72 74 [sredacted_assert]
+  | | | | |         8ead: 69 6f 6e 73                                     [ions]
+  | | | | |       list: <0 elements>
+  | | | | |         8eb1: 80                                              [.]
+  | | | | |    6) text: 'alg'
+  | | | | |         8eb2: 63 61 6c 67                                     [calg]
+  | | | | |       text: 'sha256'
+  | | | | |         8eb6: 66 73 68 61 32 35 36                            [fsha256]
+  | | | | | InstanceID = xmp:iid:8dba6862-058b-45d9-9828-c29dece9b4b9
+  | | | | | Claim_Generator_InfoName = ChatGPT
+  | | | | | Claim_Generator_InfoOrgContentauthC2Pa_Rs = 0.0.0
+  | | | | | Signature = self#jumbf=/c2pa/urn:c2pa:f3719fc6-1870-42a9-8388-d1f2651bf025/[snip]
+  | | | | | Created_AssertionsUrl = self#jumbf=c2pa.assertions/c2pa.thumbnail.ingredient
+  | | | | | Created_AssertionsHash = (Binary data 32 bytes)
+  | | | | | Created_AssertionsUrl = self#jumbf=c2pa.assertions/c2pa.ingredient.v3
+  | | | | | Created_AssertionsHash = (Binary data 32 bytes)
+  | | | | | Created_AssertionsUrl = self#jumbf=c2pa.assertions/c2pa.actions.v2
+  | | | | | Created_AssertionsHash = (Binary data 32 bytes)
+  | | | | | Created_AssertionsUrl = self#jumbf=c2pa.assertions/c2pa.hash.data
+  | | | | | Created_AssertionsHash = (Binary data 32 bytes)
+  | | | | | Title = image.png
+  | | | | | Alg = sha256
+  | | | JUMBFBox (SubDirectory) -->
+  | | | - Tag 'jumb' (13045 bytes):
+  | | |     8ec5: 00 00 00 28 6a 75 6d 64 63 32 63 73 00 11 00 10 [...(jumdc2cs....]
+  | | |     8ed5: 80 00 00 aa 00 38 9b 71 03 63 32 70 61 2e 73 69 [.....8.q.c2pa.si]
+  | | |     8ee5: 67 6e 61 74 75 72 65 00 00 00 32 cd 63 62 6f 72 [gnature...2.cbor]
+  | | |     8ef5: d2 84 59 07 c1 a2 01 26 18 21 82 59 03 37 30 82 [..Y....&.!.Y.70.]
+  | | |     8f05: 03 33 30 82 02 1b a0 03 02 01 02 02 14 6e ae 28 [.30..........n.(]
+  | | |     [snip 12965 bytes]
+  | | | + [JUMBFBox directory]
+  | | | | JUMBFDescr (SubDirectory) -->
+  | | | | - Tag 'jumd' (32 bytes):
+  | | | |     8ecd: 63 32 63 73 00 11 00 10 80 00 00 aa 00 38 9b 71 [c2cs.........8.q]
+  | | | |     8edd: 03 63 32 70 61 2e 73 69 67 6e 61 74 75 72 65 00 [.c2pa.signature.]
+  | | | | + [JUMD directory, 32 bytes]
+  | | | | | JUMDType = c2cs....8.q
+  | | | | | JUMDToggles = 3
+  | | | | | JUMDLabel = c2pa.signature
+  | | | | CBORData (SubDirectory) -->
+  | | | | - Tag 'cbor' (12997 bytes):
+  | | | |     8ef5: d2 84 59 07 c1 a2 01 26 18 21 82 59 03 37 30 82 [..Y....&.!.Y.70.]
+  | | | |     8f05: 03 33 30 82 02 1b a0 03 02 01 02 02 14 6e ae 28 [.30..........n.(]
+  | | | |     8f15: a3 ee c5 b8 e4 2a 36 fa 1d e6 41 15 ae 62 16 1b [.....*6...A..b..]
+  | | | |     8f25: 3b 30 0d 06 09 2a 86 48 86 f7 0d 01 01 0c 05 00 [;0...*.H........]
+  | | | |     8f35: 30 4a 31 1a 30 18 06 03 55 04 03 0c 11 57 65 62 [0J1.0...U....Web]
+  | | | |     [snip 12917 bytes]
+  | | | | + [CBOR directory, 12997 bytes]
+  | | | | |  <CBOR optional type 18 (COSE Sign1)>
+  | | | | |       8ef5: d2                                              [.]
+  | | | | |  list: <4 elements>
+  | | | | |       8ef6: 84                                              [.]
+  | | | | |    0) byte: <binary data 1985 bytes>
+  | | | | |         8ef7: 59 07 c1 a2 01 26 18 21 82 59 03 37 30 82 03 33 [Y....&.!.Y.70..3]
+  | | | | |         8f07: 30 82 02 1b a0 03 02 01 02 02 14 6e ae 28 a3 ee [0..........n.(..]
+  | | | | |         8f17: c5 b8 e4 2a 36 fa 1d e6 41 15 ae 62 16 1b 3b 30 [...*6...A..b..;0]
+  | | | | |         8f27: 0d 06 09 2a 86 48 86 f7 0d 01 01 0c 05 00 30 4a [...*.H........0J]
+  | | | | |         8f37: 31 1a 30 18 06 03 55 04 03 0c 11 57 65 62 43 6c [1.0...U....WebCl]
+  | | | | |         [snip 1908 bytes]
+  | | | | |    1) hash: <1 pairs>
+  | | | | |         96bb: a1                                              [.]
+  | | | | |      0) text: 'pad'
+  | | | | |           96bc: 63 70 61 64                                     [cpad]
+  | | | | |         byte: <binary data 10932 bytes>
+  | | | | |           96c0: 59 2a b4 00 00 00 00 00 00 00 00 00 00 00 00 00 [Y*..............]
+  | | | | |           96d0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 [................]
+  | | | | |           96e0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 [................]
+  | | | | |           96f0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 [................]
+  | | | | |           9700: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 [................]
+  | | | | |           [snip 10855 bytes]
+  | | | | |    2) typ7: null
+  | | | | |         c177: f6                                              [.]
+  | | | | |    3) byte: <binary data 64 bytes>
+  | | | | |         c178: 58 40 8f 69 f6 a9 a0 cc 07 ce ea 60 ac dd 15 fe [X@.i.......`....]
+  | | | | |         c188: e1 d2 46 40 0c 63 08 46 53 46 54 10 4a a6 5b 72 [..F@.c.FSFT.J.[r]
+  | | | | |         c198: 0a ad 1c 0d 10 87 c6 75 2c 6d ad 97 cf 5f 84 ab [.......u,m..._..]
+  | | | | |         c1a8: be 8b 05 55 56 ff 66 3a 5b 3d 24 de 4b c1 c2 81 [...UV.f:[=$.K...]
+  | | | | |         c1b8: fe cf                                           [..]
+  | | | | | Item0 = (Binary data 1985 bytes)
+  | | | | | Item1Pad = (Binary data 10932 bytes)
+  | | | | | Item2 = null
+  | | | | | Item3 = (Binary data 64 bytes)
+PNG IDAT (35 chunks, total 2260690 bytes)
+PNG IEND (end of image)
+Image Width                     : 1024
+Image Height                    : 1536
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced

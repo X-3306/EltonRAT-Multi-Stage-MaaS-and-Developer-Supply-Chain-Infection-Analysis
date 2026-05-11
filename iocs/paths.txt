@@ -1,0 +1,6 @@
+%APPDATA%\BK470009.exe
+%TEMP%\BK529815.exe
+C:\Windows\System32\dllhost.exe
+C:\ProgramData\bungee.boo
+C:\ProgramData\wkkr.bug
+HKEY_CURRENT_USER\Software\Classes\ms-settings\Shell\Open\command
