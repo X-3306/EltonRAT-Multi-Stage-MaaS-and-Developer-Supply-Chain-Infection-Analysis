@@ -25,19 +25,12 @@ The indicators in `iocs/` are intentionally **not defanged** so they can be load
 - `mitre_attack` - MITRE ATT&CK
 - `suricata/` - network rules for DNS, URI, and user-agent detection.
 
-## Suggested Use
-
-Run YARA if `yara-python` is installed:
-
-```powershell
-python -m pip install yara-python
-python .\tools\validate_package.py
-```
+## Use
 
 Scan a sample directory:
 
 ```powershell
-yara64.exe -r .\yara\X3306_Elton_Chain.yar C:\path\to\samples
+yara -r X3306_Elton_Chain.yar path\to\samples
 ```
 
 ## Detection Notes
@@ -53,7 +46,3 @@ yara64.exe -r .\yara\X3306_Elton_Chain.yar C:\path\to\samples
 - `medium-high`: related infrastructure or behavior with strong correlation.
 - `medium`: useful pivot or behavioral signal that may need surrounding context.
 - `low`: weak clue, test/debug string, or external pivot.
-
-## License / Sharing
-
-Use for defensive research and threat hunting. If you republish, keep attribution to `github.com/X-3306` and preserve the confidence labels.
